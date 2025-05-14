@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "title": "Help Center",
+    "description": "Get help and support for using the Divo healthcare platform"
+  },
+  "header": {
+    "title": "Help Center",
+    "subtitle": "Find answers to your questions and learn how to use Divo"
+  },
+  "search": {
+    "placeholder": "Search for help topics",
+    "noResults": "No results found. Try different keywords.",
+    "button": "Search"
+  },
+  "categories": {
+    "gettingStarted": {
+      "title": "Getting Started",
+      "topics": [
+        {
+          "title": "Creating an account",
+          "description": "Learn how to create and set up your Divo account"
+        },
+        {
+          "title": "Completing your profile",
+          "description": "Fill out your profile to get the most out of Divo"
+        },
+        {
+          "title": "Adding insurance information",
+          "description": "Add and verify your insurance details"
+        },
+        {
+          "title": "Understanding the dashboard",
+          "description": "Navigate your dashboard effectively"
+        }
+      ]
+    },
+    "appointments": {
+      "title": "Appointments",
+      "topics": [
+        {
+          "title": "Scheduling an appointment",
+          "description": "Step-by-step guide to booking appointments"
+        },
+        {
+          "title": "Rescheduling or cancelling",
+          "description": "How to change or cancel your appointments"
+        },
+        {
+          "title": "Preparing for your appointment",
+          "description": "What to do before your scheduled visit"
+        },
+        {
+          "title": "Virtual visit troubleshooting",
+          "description": "Technical support for telehealth appointments"
+        }
+      ]
+    },
+    "healthRecords": {
+      "title": "Health Records",
+      "topics": [
+        {
+          "title": "Accessing your records",
+          "description": "How to view and download your health information"
+        },
+        {
+          "title": "Uploading documents",
+          "description": "Add medical documents to your profile"
+        },
+        {
+          "title": "Sharing records with providers",
+          "description": "Securely share your records with healthcare professionals"
+        },
+        {
+          "title": "Managing family records",
+          "description": "Access and manage health records for family members"
+        }
+      ]
+    },
+    "billing": {
+      "title": "Billing & Insurance",
+      "topics": [
+        {
+          "title": "Understanding your bill",
+          "description": "Explanation of charges and payment options"
+        },
+        {
+          "title": "Insurance coverage",
+          "description": "How insurance works with Divo services"
+        },
+        {
+          "title": "Payment methods",
+          "description": "Ways to pay for your healthcare services"
+        },
+        {
+          "title": "Financial assistance",
+          "description": "Options if you need help with medical costs"
+        }
+      ]
+    },
+    "accountSettings": {
+      "title": "Account Settings",
+      "topics": [
+        {
+          "title": "Updating personal information",
+          "description": "Change your name, contact details, and more"
+        },
+        {
+          "title": "Password and security",
+          "description": "Manage your login credentials and security settings"
+        },
+        {
+          "title": "Notification preferences",
+          "description": "Control the alerts and reminders you receive"
+        },
+        {
+          "title": "Privacy settings",
+          "description": "Manage your data and privacy options"
+        }
+      ]
+    },
+    "technicalSupport": {
+      "title": "Technical Support",
+      "topics": [
+        {
+          "title": "Device requirements",
+          "description": "Recommended hardware and software for using Divo"
+        },
+        {
+          "title": "Browser issues",
+          "description": "Solutions for common browser problems"
+        },
+        {
+          "title": "Mobile app troubleshooting",
+          "description": "Help with the Divo mobile application"
+        },
+        {
+          "title": "Error messages",
+          "description": "Understanding and resolving error notifications"
+        }
+      ]
+    }
+  },
+  "popularQuestions": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "How do I reset my password?",
+        "answer": "To reset your password, click on the 'Forgot Password' link on the login page. You'll receive an email with instructions to create a new password. For security reasons, password reset links expire after 24 hours."
+      },
+      {
+        "question": "What insurance plans are accepted?",
+        "answer": "Divo works with a wide range of insurance providers including major national carriers and many regional plans. You can check if your insurance is accepted by entering your insurance information in your profile or when booking an appointment."
+      },
+      {
+        "question": "How do I prepare for a virtual visit?",
+        "answer": "For the best virtual visit experience: 1) Test your device's camera and microphone ahead of time, 2) Ensure you have a strong internet connection, 3) Find a quiet, private, well-lit space, 4) Have any relevant medical information ready, and 5) Join the virtual waiting room 5-10 minutes before your scheduled time."
+      },
+      {
+        "question": "How secure is my health information?",
+        "answer": "Your health information is protected with industry-standard encryption and security measures. We comply with all applicable healthcare privacy laws including HIPAA. We never share your personal health information without your explicit consent except as required by law."
+      },
+      {
+        "question": "Can I use Divo for medical emergencies?",
+        "answer": "No. Divo is not designed for emergency medical situations. If you are experiencing a medical emergency, please call emergency services (911 in the US) or go to your nearest emergency room immediately."
+      }
+    ],
+    "viewAll": "View all FAQs"
+  },
+  "contactSupport": {
+    "title": "Need more help?",
+    "description": "Our support team is available to assist you",
+    "options": [
+      {
+        "title": "Email Support",
+        "description": "Get help via email, typically within 24 hours",
+        "action": "Email Us",
+        "info": "support@divo.com"
+      },
+      {
+        "title": "Phone Support",
+        "description": "Speak directly with our support team",
+        "action": "Call Us",
+        "info": "+1 (800) 123-4567",
+        "hours": "Mon-Fri: 8am-8pm ET"
+      },
+      {
+        "title": "Live Chat",
+        "description": "Chat with a support agent in real-time",
+        "action": "Start Chat",
+        "hours": "Available 24/7"
+      }
+    ]
+  },
+  "feedback": {
+    "title": "Help us improve",
+    "description": "Was this help center useful?",
+    "yes": "Yes, I found what I needed",
+    "no": "No, I need more help",
+    "suggestion": "Suggest an improvement",
+    "thankYou": "Thank you for your feedback!"
+  }
+}

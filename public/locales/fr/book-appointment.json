@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "title": "Prendre rendez-vous",
+    "description": "Réservez un rendez-vous avec des prestataires de soins sur la plateforme Divo"
+  },
+  "header": {
+    "title": "Prendre rendez-vous",
+    "subtitle": "Choisissez le bon spécialiste et trouvez un créneau qui vous convient"
+  },
+  "stepper": {
+    "step1": "Choisir un prestataire",
+    "step2": "Choisir un service",
+    "step3": "Choisir date et heure",
+    "step4": "Confirmer la réservation"
+  },
+  "providerSelection": {
+    "title": "Choisir un prestataire",
+    "search": {
+      "label": "Rechercher un prestataire",
+      "placeholder": "Recherche par nom ou spécialité"
+    },
+    "filters": {
+      "specialty": {
+        "label": "Spécialité",
+        "placeholder": "Choisir une spécialité"
+      },
+      "location": {
+        "label": "Lieu",
+        "placeholder": "Choisir un lieu ou une zone"
+      },
+      "insurance": {
+        "label": "Assurance",
+        "placeholder": "Choisir un assureur"
+      },
+      "availability": {
+        "label": "Disponibilité",
+        "options": {
+          "anytime": "N'importe quand",
+          "today": "Aujourd'hui",
+          "tomorrow": "Demain",
+          "thisWeek": "Cette semaine",
+          "nextWeek": "Semaine prochaine"
+        }
+      },
+      "gender": {
+        "label": "Genre du prestataire",
+        "options": {
+          "any": "Tous",
+          "male": "Homme",
+          "female": "Femme"
+        }
+      },
+      "language": {
+        "label": "Langues parlées",
+        "placeholder": "Choisir les langues"
+      },
+      "applyButton": "Appliquer les filtres",
+      "clearButton": "Effacer les filtres"
+    },
+    "providerCard": {
+      "reviews": "avis",
+      "experience": "{{years}} ans d'expérience",
+      "newPatients": "Accepte de nouveaux patients",
+      "notAccepting": "N'accepte pas de nouveaux patients actuellement",
+      "virtual": "Visites virtuelles disponibles",
+      "viewProfile": "Voir le profil",
+      "selectButton": "Choisir ce prestataire"
+    },
+    "noResults": "Aucun résultat correspondant à vos critères de recherche. Veuillez ajuster vos filtres et réessayer."
+  },
+  "serviceSelection": {
+    "title": "Choisir un service",
+    "visitType": {
+      "label": "Type de visite",
+      "options": {
+        "inPerson": "En personne",
+        "virtual": "Virtuel (par vidéo)"
+      }
+    },
+    "services": {
+      "title": "Services disponibles",
+      "duration": "Durée : {{duration}} minutes",
+      "price": "Prix : {{price}}",
+      "covered": "Couvert par l'assurance",
+      "notCovered": "Non couvert par l'assurance",
+      "selectButton": "Sélectionner"
+    },
+    "reasonForVisit": {
+      "label": "Motif de la visite",
+      "placeholder": "Veuillez décrire brièvement le motif de votre visite"
+    },
+    "noServices": "Aucun service disponible pour ce prestataire. Veuillez sélectionner un autre prestataire."
+  },
+  "dateTimeSelection": {
+    "title": "Choisir la date et l'heure",
+    "calendar": {
+      "month": "Mois",
+      "week": "Semaine",
+      "day": "Jour",
+      "today": "Aujourd'hui",
+      "noAvailability": "Pas de disponibilité ce jour"
+    },
+    "timeSlots": {
+      "morning": "Matin (8h - 12h)",
+      "afternoon": "Après-midi (12h - 17h)",
+      "evening": "Soir (17h - 21h)",
+      "selectTime": "Choisir un horaire",
+      "noTimesAvailable": "Aucun horaire disponible. Veuillez sélectionner un autre jour."
+    },
+    "timezone": "Tous les horaires sont en heure locale ({{timezone}})"
+  },
+  "confirmation": {
+    "title": "Confirmer les détails",
+    "appointmentDetails": {
+      "title": "Détails du rendez-vous",
+      "provider": "Prestataire :",
+      "service": "Service :",
+      "type": "Type de visite :",
+      "date": "Date :",
+      "time": "Heure :",
+      "location": "Lieu :"
+    },
+    "patientDetails": {
+      "title": "Informations du patient",
+      "name": "Nom :",
+      "phone": "Téléphone :",
+      "email": "E-mail :",
+      "dateOfBirth": "Date de naissance :"
+    },
+    "insuranceDetails": {
+      "title": "Informations d'assurance",
+      "provider": "Assureur :",
+      "policyNumber": "Numéro de police :",
+      "groupNumber": "Numéro de groupe :",
+      "primaryInsured": "Assuré principal :",
+      "relationship": "Relation avec l'assuré principal :",
+      "updateButton": "Mettre à jour les informations d'assurance"
+    },
+    "additionalInfo": {
+      "title": "Informations supplémentaires",
+      "reason": "Motif de la visite :",
+      "notes": {
+        "label": "Notes supplémentaires",
+        "placeholder": "Toute information supplémentaire que vous souhaitez que le prestataire connaisse"
+      }
+    },
+    "policies": {
+      "title": "Politiques et conditions",
+      "cancellation": "Politique d'annulation : Vous pouvez annuler votre rendez-vous gratuitement jusqu'à 24 heures à l'avance. Des frais peuvent s'appliquer pour les annulations tardives.",
+      "noShow": "Politique de non-présentation : Des frais de non-présentation peuvent être appliqués si vous ne vous présentez pas à votre rendez-vous.",
+      "telehealth": "Consentement à la télésanté : En acceptant une visite virtuelle, vous acceptez les conditions d'utilisation du service de télésanté.",
+      "consent": "J'accepte ces termes et conditions"
+    },
+    "submitButton": "Confirmer le rendez-vous",
+    "loading": "Confirmation du rendez-vous...",
+    "errors": {
+      "consentRequired": "Vous devez accepter les termes et conditions",
+      "genericError": "Une erreur s'est produite lors de la réservation de votre rendez-vous. Veuillez réessayer."
+    }
+  },
+  "successPage": {
+    "title": "Rendez-vous confirmé !",
+    "message": "Votre rendez-vous a été réservé avec succès",
+    "details": {
+      "title": "Détails du rendez-vous",
+      "reference": "Numéro de référence :",
+      "provider": "Prestataire :",
+      "date": "Date :",
+      "time": "Heure :",
+      "type": "Type de visite :"
+    },
+    "nextSteps": {
+      "title": "Prochaines étapes",
+      "reminder": "Vous recevrez un rappel 24 heures avant votre rendez-vous",
+      "preparation": "Préparez toutes les questions ou préoccupations que vous souhaitez aborder",
+      "arrival": "Pour les visites en personne : Veuillez arriver 15 minutes avant l'heure de votre rendez-vous",
+      "virtual": "Pour les visites virtuelles : Vous pourrez rejoindre la session 5 minutes avant l'heure de début"
+    },
+    "actions": {
+      "calendar": "Ajouter au calendrier",
+      "viewAppointment": "Voir les détails du rendez-vous",
+      "dashboard": "Retour au tableau de bord"
+    }
+  },
+  "navigation": {
+    "back": "Retour",
+    "next": "Suivant",
+    "cancel": "Annuler"
+  }
+}

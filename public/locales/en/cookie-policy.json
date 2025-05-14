@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Cookie Policy",
+    "description": "Learn about how Divo uses cookies and similar technologies on our platform"
+  },
+  "header": {
+    "title": "Cookie Policy",
+    "lastUpdated": "Last updated",
+    "date": "March 5, 2024"
+  },
+  "introduction": {
+    "title": "Introduction",
+    "content": "This Cookie Policy explains how Divo Healthcare ('Divo', 'we', 'us', and 'our') uses cookies and similar technologies to recognize you when you visit our website and use our services. It explains what these technologies are and why we use them, as well as your rights to control our use of them."
+  },
+  "whatAreCookies": {
+    "title": "What are cookies?",
+    "content": "Cookies are small data files that are placed on your computer or mobile device when you visit a website. Cookies are widely used by website owners in order to make their websites work, or to work more efficiently, as well as to provide reporting information."
+  },
+  "whyWeUseCookies": {
+    "title": "Why do we use cookies?",
+    "content": "We use cookies for several reasons. Some cookies are required for technical reasons in order for our website to operate, and we refer to these as 'essential' or 'strictly necessary' cookies. Other cookies enable us to track and target the interests of our users to enhance the experience on our site. Third parties serve cookies through our website for advertising, analytics and other purposes.",
+    "types": {
+      "title": "The specific types of cookies served through our website and the purposes they perform:",
+      "essential": {
+        "title": "Essential cookies",
+        "description": "These cookies are strictly necessary to provide you with services available through our website and to use some of its features, such as access to secure areas."
+      },
+      "performance": {
+        "title": "Performance and functionality cookies",
+        "description": "These cookies are used to enhance the performance and functionality of our website but are non-essential to their use. However, without these cookies, certain functionality may become unavailable."
+      },
+      "analytics": {
+        "title": "Analytics and customization cookies",
+        "description": "These cookies collect information that is used either in aggregate form to help us understand how our website is being used or how effective our marketing campaigns are, or to help us customize our website for you."
+      },
+      "advertising": {
+        "title": "Advertising cookies",
+        "description": "These cookies are used to make advertising messages more relevant to you. They perform functions like preventing the same ad from continuously reappearing, ensuring that ads are properly displayed for advertisers, and in some cases selecting advertisements that are based on your interests."
+      },
+      "social": {
+        "title": "Social networking cookies",
+        "description": "These cookies are used to enable you to share pages and content that you find interesting on our website through third-party social networking and other websites. These cookies may also be used for advertising purposes."
+      }
+    }
+  },
+  "cookiesUsed": {
+    "title": "Cookies we use",
+    "table": {
+      "name": "Name",
+      "provider": "Provider",
+      "purpose": "Purpose",
+      "expiry": "Expiry",
+      "type": "Type"
+    },
+    "entries": [
+      {
+        "name": "session_id",
+        "provider": "Divo",
+        "purpose": "Used to maintain your session and authentication status",
+        "expiry": "Session",
+        "type": "Essential"
+      },
+      {
+        "name": "preferences",
+        "provider": "Divo",
+        "purpose": "Used to store your preferences such as language and theme",
+        "expiry": "1 year",
+        "type": "Functional"
+      },
+      {
+        "name": "_ga",
+        "provider": "Google",
+        "purpose": "Used to distinguish users for analytics purposes",
+        "expiry": "2 years",
+        "type": "Analytics"
+      },
+      {
+        "name": "_gid",
+        "provider": "Google",
+        "purpose": "Used to distinguish users for analytics purposes",
+        "expiry": "24 hours",
+        "type": "Analytics"
+      }
+    ]
+  },
+  "controlCookies": {
+    "title": "How can you control cookies?",
+    "content": "You have the right to decide whether to accept or reject cookies. You can exercise your cookie preferences by clicking on the appropriate opt-out links provided below.",
+    "browser": {
+      "title": "Browser controls",
+      "description": "Most web browsers allow you to manage your cookie preferences. You can set your browser to refuse cookies, or delete certain cookies. Generally you should also be able to manage similar technologies in the same way that you manage cookies – using your browsers preferences."
+    },
+    "optOut": {
+      "title": "Opting out of specific cookies",
+      "analytics": "To opt out of Google Analytics, you can install the Google Analytics Opt-out Browser Add-on by visiting: https://tools.google.com/dlpage/gaoptout",
+      "advertising": "For more information about online behavioral advertising cookies and how to opt out of them, please visit www.youronlinechoices.eu (EU based) or www.aboutads.info/choices/ (US based)"
+    }
+  },
+  "changes": {
+    "title": "Changes to this Cookie Policy",
+    "content": "We may update this Cookie Policy from time to time in order to reflect, for example, changes to the cookies we use or for other operational, legal or regulatory reasons. Please therefore re-visit this Cookie Policy regularly to stay informed about our use of cookies and related technologies."
+  },
+  "contact": {
+    "title": "Contact us",
+    "content": "If you have any questions about our use of cookies or other technologies, please contact us at:",
+    "email": "privacy@divo.com",
+    "phone": "+1 (800) 123-4567"
+  }
+}

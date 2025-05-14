@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "title": "Health Records",
+    "description": "View and manage your medical records and health history"
+  },
+  "header": {
+    "title": "Health Records",
+    "subtitle": "View and manage your medical information"
+  },
+  "overview": {
+    "title": "Health Overview",
+    "lastUpdated": "Last updated",
+    "viewAll": "View all",
+    "details": "View details"
+  },
+  "vitals": {
+    "title": "Vital Signs",
+    "bloodPressure": "Blood Pressure",
+    "heartRate": "Heart Rate",
+    "temperature": "Temperature",
+    "respiratoryRate": "Respiratory Rate",
+    "oxygenSaturation": "Oxygen Saturation",
+    "weight": "Weight",
+    "height": "Height",
+    "bmi": "BMI",
+    "lastChecked": "Last checked",
+    "units": {
+      "mmHg": "mmHg",
+      "bpm": "bpm",
+      "celsius": "°C",
+      "fahrenheit": "°F",
+      "rpm": "breaths/min",
+      "percentage": "%",
+      "kg": "kg",
+      "lb": "lb",
+      "cm": "cm",
+      "in": "in"
+    }
+  },
+  "conditions": {
+    "title": "Medical Conditions",
+    "active": "Active",
+    "resolved": "Resolved",
+    "diagnosed": "Diagnosed",
+    "noConditions": "No medical conditions recorded",
+    "addCondition": "Add condition"
+  },
+  "medications": {
+    "title": "Medications",
+    "current": "Current",
+    "past": "Past",
+    "prescribed": "Prescribed",
+    "dosage": "Dosage",
+    "frequency": "Frequency",
+    "startDate": "Start date",
+    "endDate": "End date",
+    "refills": "Refills",
+    "noMedications": "No medications recorded",
+    "addMedication": "Add medication"
+  },
+  "allergies": {
+    "title": "Allergies",
+    "severity": "Severity",
+    "reaction": "Reaction",
+    "diagnosed": "Diagnosed",
+    "noAllergies": "No allergies recorded",
+    "addAllergy": "Add allergy",
+    "severityLevels": {
+      "mild": "Mild",
+      "moderate": "Moderate",
+      "severe": "Severe",
+      "unknown": "Unknown"
+    }
+  },
+  "immunizations": {
+    "title": "Immunizations",
+    "vaccine": "Vaccine",
+    "date": "Date",
+    "provider": "Provider",
+    "nextDue": "Next due",
+    "noImmunizations": "No immunizations recorded",
+    "addImmunization": "Add immunization"
+  },
+  "documents": {
+    "title": "Medical Documents",
+    "type": "Type",
+    "date": "Date",
+    "provider": "Provider",
+    "description": "Description",
+    "view": "View",
+    "download": "Download",
+    "noDocuments": "No documents uploaded",
+    "uploadDocument": "Upload document",
+    "types": {
+      "labResults": "Lab Results",
+      "imaging": "Imaging",
+      "consultation": "Consultation Notes",
+      "discharge": "Discharge Summary",
+      "prescription": "Prescription",
+      "other": "Other"
+    }
+  },
+  "visits": {
+    "title": "Recent Visits",
+    "date": "Date",
+    "provider": "Provider",
+    "reason": "Reason",
+    "location": "Location",
+    "summary": "Summary",
+    "noVisits": "No recent visits recorded"
+  },
+  "familyHistory": {
+    "title": "Family History",
+    "relation": "Relation",
+    "condition": "Condition",
+    "age": "Age of Onset",
+    "notes": "Notes",
+    "noHistory": "No family history recorded",
+    "addHistory": "Add family history"
+  },
+  "sharing": {
+    "title": "Record Sharing",
+    "description": "Manage who can access your health records",
+    "currentProviders": "Current Providers with Access",
+    "shareWith": "Share with a provider",
+    "searchProvider": "Search for a provider",
+    "permissions": "Permissions",
+    "viewOnly": "View Only",
+    "fullAccess": "Full Access",
+    "timeLimit": "Time Limit",
+    "permanent": "Permanent",
+    "temporary": "Temporary",
+    "endDate": "End Date",
+    "share": "Share",
+    "revoke": "Revoke Access"
+  },
+  "buttons": {
+    "exportRecords": "Export Records",
+    "printSummary": "Print Summary",
+    "addNew": "Add New",
+    "viewAll": "View All"
+  }
+}

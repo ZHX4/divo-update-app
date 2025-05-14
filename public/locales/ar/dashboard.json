@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "لوحة التحكم",
+    "description": "لوحة التحكم الصحية الشخصية في ديفو"
+  },
+  "header": {
+    "welcome": "مرحباً بعودتك",
+    "subtitle": "هنا نظرة عامة على صحتك"
+  },
+  "stats": {
+    "upcomingAppointments": "المواعيد القادمة",
+    "totalVisits": "إجمالي الزيارات",
+    "recentPrescriptions": "الوصفات الطبية الأخيرة",
+    "healthScore": "نتيجة الصحة"
+  },
+  "quickActions": {
+    "title": "إجراءات سريعة",
+    "findDoctor": "البحث عن طبيب",
+    "scheduleAppointment": "تحديد موعد",
+    "viewRecords": "عرض السجلات الطبية",
+    "messageDoctor": "مراسلة الطبيب"
+  },
+  "appointments": {
+    "title": "المواعيد القادمة",
+    "viewAll": "عرض الكل",
+    "noAppointments": "لا توجد مواعيد قادمة",
+    "schedule": "تحديد موعد جديد"
+  },
+  "recentActivity": {
+    "title": "النشاط الأخير",
+    "viewAll": "عرض الكل",
+    "noActivity": "لا يوجد نشاط حديث لعرضه"
+  },
+  "healthMetrics": {
+    "title": "المقاييس الصحية",
+    "bloodPressure": "ضغط الدم",
+    "heartRate": "معدل ضربات القلب",
+    "bloodGlucose": "نسبة السكر في الدم",
+    "weight": "الوزن",
+    "lastUpdated": "آخر تحديث"
+  },
+  "notifications": {
+    "title": "الإشعارات",
+    "viewAll": "عرض الكل",
+    "markRead": "تعليم الكل كمقروء",
+    "noNotifications": "لا توجد إشعارات جديدة"
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "meta": {
+    "title": "Centre d'aide",
+    "description": "Obtenez de l'aide et du support pour utiliser la plateforme de santé Divo"
+  },
+  "header": {
+    "title": "Centre d'aide",
+    "subtitle": "Trouvez des réponses à vos questions et apprenez à utiliser Divo"
+  },
+  "search": {
+    "placeholder": "Rechercher des sujets d'aide",
+    "noResults": "Aucun résultat trouvé. Essayez des mots-clés différents.",
+    "button": "Rechercher"
+  },
+  "categories": {
+    "gettingStarted": {
+      "title": "Premiers pas",
+      "topics": [
+        {
+          "title": "Créer un compte",
+          "description": "Apprenez à créer et configurer votre compte Divo"
+        },
+        {
+          "title": "Compléter votre profil",
+          "description": "Remplissez votre profil pour tirer le meilleur parti de Divo"
+        },
+        {
+          "title": "Ajouter vos informations d'assurance",
+          "description": "Ajoutez et vérifiez vos informations d'assurance"
+        },
+        {
+          "title": "Comprendre le tableau de bord",
+          "description": "Naviguez efficacement dans votre tableau de bord"
+        }
+      ]
+    },
+    "appointments": {
+      "title": "Rendez-vous",
+      "topics": [
+        {
+          "title": "Prendre un rendez-vous",
+          "description": "Guide étape par étape pour réserver des rendez-vous"
+        },
+        {
+          "title": "Reprogrammer ou annuler",
+          "description": "Comment modifier ou annuler vos rendez-vous"
+        },
+        {
+          "title": "Préparer votre rendez-vous",
+          "description": "Que faire avant votre visite programmée"
+        },
+        {
+          "title": "Dépannage des visites virtuelles",
+          "description": "Support technique pour les rendez-vous de télésanté"
+        }
+      ]
+    },
+    "healthRecords": {
+      "title": "Dossiers médicaux",
+      "topics": [
+        {
+          "title": "Accéder à vos dossiers",
+          "description": "Comment consulter et télécharger vos informations de santé"
+        },
+        {
+          "title": "Télécharger des documents",
+          "description": "Ajouter des documents médicaux à votre profil"
+        },
+        {
+          "title": "Partager des dossiers avec les prestataires",
+          "description": "Partagez en toute sécurité vos dossiers avec des professionnels de santé"
+        },
+        {
+          "title": "Gérer les dossiers familiaux",
+          "description": "Accédez et gérez les dossiers de santé des membres de votre famille"
+        }
+      ]
+    },
+    "billing": {
+      "title": "Facturation et assurance",
+      "topics": [
+        {
+          "title": "Comprendre votre facture",
+          "description": "Explication des frais et des options de paiement"
+        },
+        {
+          "title": "Couverture d'assurance",
+          "description": "Comment l'assurance fonctionne avec les services Divo"
+        },
+        {
+          "title": "Méthodes de paiement",
+          "description": "Moyens de payer vos services de santé"
+        },
+        {
+          "title": "Assistance financière",
+          "description": "Options si vous avez besoin d'aide pour les frais médicaux"
+        }
+      ]
+    },
+    "accountSettings": {
+      "title": "Paramètres du compte",
+      "topics": [
+        {
+          "title": "Mettre à jour les informations personnelles",
+          "description": "Modifier votre nom, vos coordonnées et plus"
+        },
+        {
+          "title": "Mot de passe et sécurité",
+          "description": "Gérer vos identifiants de connexion et paramètres de sécurité"
+        },
+        {
+          "title": "Préférences de notification",
+          "description": "Contrôler les alertes et rappels que vous recevez"
+        },
+        {
+          "title": "Paramètres de confidentialité",
+          "description": "Gérer vos données et options de confidentialité"
+        }
+      ]
+    },
+    "technicalSupport": {
+      "title": "Support technique",
+      "topics": [
+        {
+          "title": "Exigences de l'appareil",
+          "description": "Matériel et logiciel recommandés pour utiliser Divo"
+        },
+        {
+          "title": "Problèmes de navigateur",
+          "description": "Solutions aux problèmes courants de navigateur"
+        },
+        {
+          "title": "Dépannage de l'application mobile",
+          "description": "Aide avec l'application mobile Divo"
+        },
+        {
+          "title": "Messages d'erreur",
+          "description": "Comprendre et résoudre les notifications d'erreur"
+        }
+      ]
+    }
+  },
+  "popularQuestions": {
+    "title": "Questions fréquemment posées",
+    "questions": [
+      {
+        "question": "Comment réinitialiser mon mot de passe ?",
+        "answer": "Pour réinitialiser votre mot de passe, cliquez sur le lien 'Mot de passe oublié' sur la page de connexion. Vous recevrez un email avec des instructions pour créer un nouveau mot de passe. Pour des raisons de sécurité, les liens de réinitialisation de mot de passe expirent après 24 heures."
+      },
+      {
+        "question": "Quels régimes d'assurance sont acceptés ?",
+        "answer": "Divo travaille avec une large gamme d'assureurs, y compris les grandes compagnies nationales et de nombreux régimes régionaux. Vous pouvez vérifier si votre assurance est acceptée en saisissant vos informations d'assurance dans votre profil ou lors de la prise de rendez-vous."
+      },
+      {
+        "question": "Comment me préparer pour une visite virtuelle ?",
+        "answer": "Pour la meilleure expérience de visite virtuelle : 1) Testez la caméra et le microphone de votre appareil à l'avance, 2) Assurez-vous d'avoir une connexion Internet stable, 3) Trouvez un espace calme, privé et bien éclairé, 4) Ayez toute information médicale pertinente à portée de main, et 5) Rejoignez la salle d'attente virtuelle 5-10 minutes avant l'heure prévue."
+      },
+      {
+        "question": "Mes informations de santé sont-elles sécurisées ?",
+        "answer": "Vos informations de santé sont protégées par un cryptage et des mesures de sécurité conformes aux normes de l'industrie. Nous respectons toutes les lois applicables en matière de confidentialité des soins de santé, y compris HIPAA. Nous ne partageons jamais vos informations personnelles de santé sans votre consentement explicite, sauf si la loi l'exige."
+      },
+      {
+        "question": "Puis-je utiliser Divo pour des urgences médicales ?",
+        "answer": "Non. Divo n'est pas conçu pour les situations d'urgence médicale. Si vous êtes confronté à une urgence médicale, veuillez appeler les services d'urgence (112 en Europe, 911 aux États-Unis) ou vous rendre immédiatement aux urgences les plus proches."
+      }
+    ],
+    "viewAll": "Voir toutes les FAQ"
+  },
+  "contactSupport": {
+    "title": "Besoin d'aide supplémentaire ?",
+    "description": "Notre équipe d'assistance est disponible pour vous aider",
+    "options": [
+      {
+        "title": "Support par email",
+        "description": "Obtenez de l'aide par email, généralement sous 24 heures",
+        "action": "Nous contacter",
+        "info": "support@divo.com"
+      },
+      {
+        "title": "Support téléphonique",
+        "description": "Parlez directement avec notre équipe d'assistance",
+        "action": "Nous appeler",
+        "info": "+1 (800) 123-4567",
+        "hours": "Lun-Ven: 8h-20h ET"
+      },
+      {
+        "title": "Chat en direct",
+        "description": "Discutez en temps réel avec un agent d'assistance",
+        "action": "Démarrer le chat",
+        "hours": "Disponible 24/7"
+      }
+    ]
+  },
+  "feedback": {
+    "title": "Aidez-nous à nous améliorer",
+    "description": "Ce centre d'aide vous a-t-il été utile ?",
+    "yes": "Oui, j'ai trouvé ce que je cherchais",
+    "no": "Non, j'ai besoin de plus d'aide",
+    "suggestion": "Suggérer une amélioration",
+    "thankYou": "Merci pour vos commentaires !"
+  }
+}

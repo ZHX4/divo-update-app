@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "title": "Login",
+    "description": "Login to your Divo account to access our healthcare platform"
+  },
+  "header": {
+    "title": "Login to your account",
+    "subtitle": "Welcome back! Please enter your credentials to access your account"
+  },
+  "form": {
+    "email": {
+      "label": "Email address",
+      "placeholder": "Enter your email address"
+    },
+    "password": {
+      "label": "Password",
+      "placeholder": "Enter your password"
+    },
+    "rememberMe": "Remember me",
+    "forgotPassword": "Forgot password?",
+    "submitButton": "Log in",
+    "loading": "Logging in...",
+    "errors": {
+      "invalidCredentials": "Invalid email or password",
+      "emailRequired": "Email is required",
+      "validEmail": "Please enter a valid email",
+      "passwordRequired": "Password is required"
+    }
+  },
+  "socialLogin": {
+    "title": "Or login with",
+    "google": "Continue with Google",
+    "apple": "Continue with Apple",
+    "facebook": "Continue with Facebook"
+  },
+  "signup": {
+    "prompt": "Don't have an account?",
+    "link": "Create an account"
+  },
+  "securityInfo": "We use advanced encryption to protect your information. We will never share your data with third parties without your consent."
+}

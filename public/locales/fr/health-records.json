@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "title": "Dossiers médicaux",
+    "description": "Consultez et gérez vos dossiers médicaux et votre historique de santé"
+  },
+  "header": {
+    "title": "Dossiers médicaux",
+    "subtitle": "Consultez et gérez vos informations médicales"
+  },
+  "overview": {
+    "title": "Aperçu de santé",
+    "lastUpdated": "Dernière mise à jour",
+    "viewAll": "Voir tout",
+    "details": "Voir les détails"
+  },
+  "vitals": {
+    "title": "Signes vitaux",
+    "bloodPressure": "Tension artérielle",
+    "heartRate": "Fréquence cardiaque",
+    "temperature": "Température",
+    "respiratoryRate": "Fréquence respiratoire",
+    "oxygenSaturation": "Saturation en oxygène",
+    "weight": "Poids",
+    "height": "Taille",
+    "bmi": "IMC",
+    "lastChecked": "Dernière vérification",
+    "units": {
+      "mmHg": "mmHg",
+      "bpm": "bpm",
+      "celsius": "°C",
+      "fahrenheit": "°F",
+      "rpm": "respirations/min",
+      "percentage": "%",
+      "kg": "kg",
+      "lb": "lb",
+      "cm": "cm",
+      "in": "po"
+    }
+  },
+  "conditions": {
+    "title": "Conditions médicales",
+    "active": "Actives",
+    "resolved": "Résolues",
+    "diagnosed": "Diagnostiquées",
+    "noConditions": "Aucune condition médicale enregistrée",
+    "addCondition": "Ajouter une condition"
+  },
+  "medications": {
+    "title": "Médicaments",
+    "current": "Actuels",
+    "past": "Passés",
+    "prescribed": "Prescrits",
+    "dosage": "Dosage",
+    "frequency": "Fréquence",
+    "startDate": "Date de début",
+    "endDate": "Date de fin",
+    "refills": "Renouvellements",
+    "noMedications": "Aucun médicament enregistré",
+    "addMedication": "Ajouter un médicament"
+  },
+  "allergies": {
+    "title": "Allergies",
+    "severity": "Gravité",
+    "reaction": "Réaction",
+    "diagnosed": "Diagnostiquées",
+    "noAllergies": "Aucune allergie enregistrée",
+    "addAllergy": "Ajouter une allergie",
+    "severityLevels": {
+      "mild": "Légère",
+      "moderate": "Modérée",
+      "severe": "Sévère",
+      "unknown": "Inconnue"
+    }
+  },
+  "immunizations": {
+    "title": "Vaccinations",
+    "vaccine": "Vaccin",
+    "date": "Date",
+    "provider": "Prestataire",
+    "nextDue": "Prochaine échéance",
+    "noImmunizations": "Aucune vaccination enregistrée",
+    "addImmunization": "Ajouter une vaccination"
+  },
+  "documents": {
+    "title": "Documents médicaux",
+    "type": "Type",
+    "date": "Date",
+    "provider": "Prestataire",
+    "description": "Description",
+    "view": "Voir",
+    "download": "Télécharger",
+    "noDocuments": "Aucun document téléchargé",
+    "uploadDocument": "Télécharger un document",
+    "types": {
+      "labResults": "Résultats de laboratoire",
+      "imaging": "Imagerie",
+      "consultation": "Notes de consultation",
+      "discharge": "Résumé de sortie",
+      "prescription": "Ordonnance",
+      "other": "Autre"
+    }
+  },
+  "visits": {
+    "title": "Visites récentes",
+    "date": "Date",
+    "provider": "Prestataire",
+    "reason": "Motif",
+    "location": "Lieu",
+    "summary": "Résumé",
+    "noVisits": "Aucune visite récente enregistrée"
+  },
+  "familyHistory": {
+    "title": "Antécédents familiaux",
+    "relation": "Relation",
+    "condition": "Condition",
+    "age": "Âge d'apparition",
+    "notes": "Notes",
+    "noHistory": "Aucun antécédent familial enregistré",
+    "addHistory": "Ajouter des antécédents familiaux"
+  },
+  "sharing": {
+    "title": "Partage de dossiers",
+    "description": "Gérez qui peut accéder à vos dossiers médicaux",
+    "currentProviders": "Prestataires actuels avec accès",
+    "shareWith": "Partager avec un prestataire",
+    "searchProvider": "Rechercher un prestataire",
+    "permissions": "Autorisations",
+    "viewOnly": "Lecture seule",
+    "fullAccess": "Accès complet",
+    "timeLimit": "Limite de temps",
+    "permanent": "Permanent",
+    "temporary": "Temporaire",
+    "endDate": "Date de fin",
+    "share": "Partager",
+    "revoke": "Révoquer l'accès"
+  },
+  "buttons": {
+    "exportRecords": "Exporter les dossiers",
+    "printSummary": "Imprimer le résumé",
+    "addNew": "Ajouter nouveau",
+    "viewAll": "Voir tout"
+  }
+}

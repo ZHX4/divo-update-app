@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "title": "Profile",
+    "description": "View and edit your profile information on Divo"
+  },
+  "header": {
+    "title": "Your Profile",
+    "subtitle": "Manage your personal and medical information"
+  },
+  "tabs": {
+    "personal": "Personal Information",
+    "medical": "Medical Information",
+    "insurance": "Insurance",
+    "preferences": "Preferences",
+    "providers": "Preferred Providers"
+  },
+  "personalInfo": {
+    "title": "Personal Information",
+    "photo": {
+      "label": "Profile Photo",
+      "upload": "Upload Photo",
+      "remove": "Remove Photo"
+    },
+    "name": {
+      "first": {
+        "label": "First Name",
+        "placeholder": "Enter your first name"
+      },
+      "middle": {
+        "label": "Middle Name",
+        "placeholder": "Enter your middle name (optional)"
+      },
+      "last": {
+        "label": "Last Name",
+        "placeholder": "Enter your last name"
+      }
+    },
+    "contact": {
+      "email": {
+        "label": "Email Address",
+        "placeholder": "Enter your email address"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Enter your phone number"
+      }
+    },
+    "personal": {
+      "dob": {
+        "label": "Date of Birth",
+        "placeholder": "Select your date of birth"
+      },
+      "gender": {
+        "label": "Gender",
+        "options": {
+          "male": "Male",
+          "female": "Female",
+          "other": "Other",
+          "preferNotToSay": "Prefer not to say"
+        }
+      },
+      "maritalStatus": {
+        "label": "Marital Status",
+        "options": {
+          "single": "Single",
+          "married": "Married",
+          "divorced": "Divorced",
+          "widowed": "Widowed",
+          "other": "Other"
+        }
+      }
+    },
+    "address": {
+      "title": "Address",
+      "street1": {
+        "label": "Line 1",
+        "placeholder": "Street address"
+      },
+      "street2": {
+        "label": "Line 2",
+        "placeholder": "Apartment, suite, unit, etc."
+      },
+      "city": {
+        "label": "City",
+        "placeholder": "Enter city"
+      },
+      "state": {
+        "label": "State/Province",
+        "placeholder": "Choose state/province"
+      },
+      "zipCode": {
+        "label": "ZIP/Postal Code",
+        "placeholder": "Enter ZIP/postal code"
+      },
+      "country": {
+        "label": "Country",
+        "placeholder": "Choose country"
+      }
+    },
+    "emergency": {
+      "title": "Emergency Contact",
+      "name": {
+        "label": "Name",
+        "placeholder": "Emergency contact name"
+      },
+      "relationship": {
+        "label": "Relationship",
+        "placeholder": "Relationship to you"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Emergency contact phone"
+      }
+    },
+    "saveButton": "Save Changes",
+    "cancelButton": "Cancel",
+    "successMessage": "Your personal information has been successfully updated",
+    "errorMessage": "An error occurred while saving your information. Please try again."
+  },
+  "medicalInfo": {
+    "title": "Medical Information",
+    "allergies": {
+      "title": "Allergies",
+      "label": "Do you have any allergies?",
+      "options": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "list": {
+        "label": "Allergy",
+        "add": "Add Allergy",
+        "placeholder": "Enter allergy",
+        "reaction": "Reaction",
+        "severity": {
+          "label": "Severity",
+          "options": {
+            "mild": "Mild",
+            "moderate": "Moderate",
+            "severe": "Severe"
+          }
+        },
+        "remove": "Remove"
+      }
+    },
+    "medications": {
+      "title": "Current Medications",
+      "label": "Are you currently taking any medications?",
+      "options": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "list": {
+        "label": "Medication",
+        "add": "Add Medication",
+        "placeholder": "Medication name",
+        "dosage": "Dosage",
+        "frequency": "Frequency",
+        "reason": "Reason for Use",
+        "remove": "Remove"
+      }
+    },
+    "conditions": {
+      "title": "Medical Conditions",
+      "label": "Have you been diagnosed with any medical conditions?",
+      "options": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "list": {
+        "label": "Condition",
+        "add": "Add Condition",
+        "placeholder": "Enter condition",
+        "diagnosedDate": "Diagnosed Date",
+        "currentStatus": {
+          "label": "Current Status",
+          "options": {
+            "active": "Active",
+            "managed": "Managed",
+            "resolved": "Resolved"
+          }
+        },
+        "remove": "Remove"
+      }
+    },
+    "surgeries": {
+      "title": "Surgeries",
+      "label": "Have you had any surgeries?",
+      "options": {
+        "yes": "Yes",
+        "no": "No"
+      },
+      "list": {
+        "label": "Surgery",
+        "add": "Add Surgery",
+        "placeholder": "Surgery name",
+        "date": "Surgery Date",
+        "hospital": "Hospital",
+        "reason": "Reason for Surgery",
+        "remove": "Remove"
+      }
+    },
+    "familyHistory": {
+      "title": "Family History",
+      "list": {
+        "label": "Condition",
+        "add": "Add Family History",
+        "placeholder": "Medical condition",
+        "relation": "Relationship",
+        "remove": "Remove"
+      }
+    },
+    "lifestyle": {
+      "title": "Lifestyle Factors",
+      "smoking": {
+        "label": "Smoking",
+        "options": {
+          "never": "Never smoked",
+          "former": "Former smoker",
+          "current": "Current smoker",
+          "occasional": "Occasional smoker"
+        }
+      },
+      "alcohol": {
+        "label": "Alcohol Consumption",
+        "options": {
+          "never": "Don't drink",
+          "occasional": "Occasional",
+          "moderate": "Moderate",
+          "heavy": "Heavy"
+        }
+      },
+      "exercise": {
+        "label": "Exercise",
+        "options": {
+          "sedentary": "Sedentary",
+          "light": "Light",
+          "moderate": "Moderate",
+          "active": "Active",
+          "veryActive": "Very Active"
+        }
+      }
+    },
+    "saveButton": "Save Medical Information",
+    "cancelButton": "Cancel",
+    "successMessage": "Your medical information has been successfully updated",
+    "errorMessage": "An error occurred while saving your medical information. Please try again."
+  },
+  "insuranceInfo": {
+    "title": "Insurance Information",
+    "primary": {
+      "title": "Primary Insurance",
+      "provider": {
+        "label": "Insurance Provider",
+        "placeholder": "Choose insurance provider"
+      },
+      "policyNumber": {
+        "label": "Policy Number",
+        "placeholder": "Enter policy number"
+      },
+      "groupNumber": {
+        "label": "Group Number",
+        "placeholder": "Enter group number (optional)"
+      },
+      "policyHolder": {
+        "label": "Policy Holder",
+        "self": "Self",
+        "other": "Someone else"
+      },
+      "holderInfo": {
+        "name": {
+          "label": "Policy Holder Name",
+          "placeholder": "Enter full name"
+        },
+        "relationship": {
+          "label": "Relationship to Policy Holder",
+          "placeholder": "Choose relationship",
+          "options": {
+            "spouse": "Spouse",
+            "parent": "Parent",
+            "child": "Child",
+            "other": "Other"
+          }
+        },
+        "dob": {
+          "label": "Policy Holder Date of Birth",
+          "placeholder": "Select date"
+        }
+      },
+      "uploadCard": {
+        "label": "Upload Insurance Card Image",
+        "front": "Front",
+        "back": "Back",
+        "drag": "Drag and drop file here, or click to browse"
+      }
+    },
+    "secondary": {
+      "title": "Secondary Insurance (Optional)",
+      "hasSecondary": {
+        "label": "Do you have secondary insurance?",
+        "yes": "Yes",
+        "no": "No"
+      },
+      "info": "Same insurance information fields as primary above"
+    },
+    "verification": {
+      "title": "Insurance Verification",
+      "status": {
+        "pending": "Pending",
+        "verified": "Verified",
+        "failed": "Verification Failed",
+        "notSubmitted": "Not Submitted Yet"
+      },
+      "instructions": "We may contact you for additional information if we encounter issues verifying your insurance coverage."
+    },
+    "saveButton": "Save Insurance Information",
+    "cancelButton": "Cancel",
+    "successMessage": "Your insurance information has been successfully updated",
+    "errorMessage": "An error occurred while saving your insurance information. Please try again."
+  },
+  "preferences": {
+    "title": "Account Preferences",
+    "communications": {
+      "title": "Communication Preferences",
+      "reminders": {
+        "label": "Appointment Reminders",
+        "email": "Email",
+        "sms": "Text Message",
+        "both": "Both",
+        "none": "No Reminders"
+      },
+      "notifications": {
+        "label": "Notifications",
+        "options": {
+          "appointments": "Appointment Changes",
+          "messaging": "Messages from Providers",
+          "results": "New Test Results",
+          "prescriptions": "Prescription Updates",
+          "newsletters": "Newsletters and Health Updates"
+        }
+      },
+      "timing": {
+        "label": "Reminder Timing",
+        "options": {
+          "1day": "1 Day Before",
+          "2days": "2 Days Before",
+          "1week": "1 Week Before",
+          "custom": "Custom"
+        }
+      }
+    },
+    "accessibility": {
+      "title": "Accessibility Preferences",
+      "fontSize": {
+        "label": "Font Size",
+        "options": {
+          "default": "Default",
+          "large": "Large",
+          "larger": "Larger"
+        }
+      },
+      "contrast": {
+        "label": "Contrast",
+        "options": {
+          "default": "Default",
+          "high": "High"
+        }
+      },
+      "animations": {
+        "label": "Animations",
+        "options": {
+          "enabled": "Enabled",
+          "reduced": "Reduced"
+        }
+      },
+      "screenReader": {
+        "label": "Screen Reader Optimization",
+        "options": {
+          "enabled": "Enabled",
+          "disabled": "Disabled"
+        }
+      }
+    },
+    "language": {
+      "title": "Language Preferences",
+      "preferred": {
+        "label": "Preferred Language",
+        "options": {
+          "en": "English",
+          "ar": "Arabic",
+          "fr": "French",
+          "es": "Spanish"
+        }
+      },
+      "needInterpreter": {
+        "label": "Do you need an interpreter for appointments?",
+        "yes": "Yes",
+        "no": "No"
+      }
+    },
+    "privacy": {
+      "title": "Privacy Options",
+      "shareData": {
+        "label": "Data Sharing for Medical Research",
+        "description": "Allow your anonymized health data to be used to help improve healthcare and medical research.",
+        "yes": "Yes, I allow",
+        "no": "No, do not share"
+      },
+      "shareDirectories": {
+        "label": "Directories and Listings",
+        "description": "Allow other patients to find you in the patient directory (for groups only).",
+        "yes": "Yes, I allow",
+        "no": "No, keep me private"
+      }
+    },
+    "saveButton": "Save Preferences",
+    "cancelButton": "Cancel",
+    "successMessage": "Your preferences have been successfully updated",
+    "errorMessage": "An error occurred while saving your preferences. Please try again."
+  },
+  "preferredProviders": {
+    "title": "Preferred Providers",
+    "description": "Manage the healthcare providers you prefer to work with.",
+    "primaryCare": {
+      "title": "Primary Care Provider",
+      "select": "Choose Primary Care Provider",
+      "search": "Search for providers",
+      "noPrimary": "No primary care provider set",
+      "current": "Current Primary Care Provider"
+    },
+    "specialists": {
+      "title": "Specialists",
+      "add": "Add Specialist",
+      "search": "Search for specialist",
+      "noSpecialists": "You haven't added any specialists",
+      "specialty": "Specialty",
+      "remove": "Remove"
+    },
+    "providerCard": {
+      "contactInfo": "Contact Information",
+      "viewProfile": "View Profile",
+      "lastVisit": "Last Visit",
+      "upcomingAppointment": "Upcoming Appointment"
+    },
+    "saveButton": "Save Preferred Providers",
+    "cancelButton": "Cancel",
+    "successMessage": "Your preferred providers have been successfully updated",
+    "errorMessage": "An error occurred while saving your preferred providers. Please try again."
+  },
+  "completionStatus": {
+    "title": "Profile Completion",
+    "complete": "Complete",
+    "incomplete": "Incomplete",
+    "percentComplete": "{{percent}}% complete",
+    "completeProfile": "Complete your profile to improve your experience"
+  }
+}

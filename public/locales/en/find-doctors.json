@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Find Doctors",
+    "description": "Search for healthcare providers by specialty, location, and availability"
+  },
+  "header": {
+    "title": "Find the Right Doctor For You",
+    "subtitle": "Search from our network of qualified healthcare professionals"
+  },
+  "search": {
+    "placeholder": "Search by name, specialty, or condition",
+    "location": {
+      "label": "Location",
+      "placeholder": "City, state, or zip code"
+    },
+    "specialty": {
+      "label": "Specialty",
+      "placeholder": "Select specialty",
+      "options": {
+        "all": "All Specialties",
+        "cardiology": "Cardiology",
+        "dermatology": "Dermatology",
+        "endocrinology": "Endocrinology",
+        "familyMedicine": "Family Medicine",
+        "gastroenterology": "Gastroenterology",
+        "neurology": "Neurology",
+        "obstetrics": "Obstetrics & Gynecology",
+        "ophthalmology": "Ophthalmology",
+        "orthopedics": "Orthopedics",
+        "pediatrics": "Pediatrics",
+        "psychiatry": "Psychiatry",
+        "urology": "Urology"
+      }
+    },
+    "insurance": {
+      "label": "Insurance",
+      "placeholder": "Select insurance"
+    },
+    "availability": {
+      "label": "Availability",
+      "today": "Today",
+      "tomorrow": "Tomorrow",
+      "thisWeek": "This Week",
+      "nextWeek": "Next Week",
+      "anytime": "Anytime"
+    },
+    "distance": {
+      "label": "Distance",
+      "options": {
+        "5": "Within 5 miles",
+        "10": "Within 10 miles",
+        "15": "Within 15 miles",
+        "25": "Within 25 miles",
+        "50": "Within 50 miles"
+      }
+    },
+    "gender": {
+      "label": "Doctor Gender",
+      "any": "Any",
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-binary",
+      "notSpecified": "Prefer not to say"
+    },
+    "language": {
+      "label": "Languages Spoken",
+      "placeholder": "Select languages"
+    },
+    "rating": {
+      "label": "Minimum Rating",
+      "any": "Any Rating"
+    },
+    "button": "Search Doctors",
+    "clear": "Clear Filters",
+    "advancedFilters": "Advanced Filters",
+    "lessFilters": "Less Filters"
+  },
+  "results": {
+    "found": "{{count}} doctors found",
+    "noResults": "No doctors match your search criteria. Try adjusting your filters.",
+    "sortBy": {
+      "label": "Sort by",
+      "relevance": "Relevance",
+      "rating": "Rating",
+      "distance": "Distance",
+      "availability": "Earliest Availability"
+    }
+  },
+  "doctorCard": {
+    "yearsExperience": "{{years}} years experience",
+    "newPatients": "Accepting new patients",
+    "notAcceptingPatients": "Not accepting new patients",
+    "viewProfile": "View Profile",
+    "bookAppointment": "Book Appointment",
+    "telehealth": "Telehealth available",
+    "inPerson": "In-person visits",
+    "distance": "{{distance}} miles away"
+  },
+  "pagination": {
+    "previous": "Previous",
+    "next": "Next",
+    "page": "Page {{current}} of {{total}}"
+  },
+  "filters": {
+    "title": "Filters",
+    "apply": "Apply Filters",
+    "reset": "Reset"
+  }
+}

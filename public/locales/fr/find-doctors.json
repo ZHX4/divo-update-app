@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Trouver des médecins",
+    "description": "Recherchez des prestataires de soins de santé par spécialité, localisation et disponibilité"
+  },
+  "header": {
+    "title": "Trouvez le bon médecin pour vous",
+    "subtitle": "Recherchez parmi notre réseau de professionnels de santé qualifiés"
+  },
+  "search": {
+    "placeholder": "Rechercher par nom, spécialité ou condition",
+    "location": {
+      "label": "Localisation",
+      "placeholder": "Ville, département ou code postal"
+    },
+    "specialty": {
+      "label": "Spécialité",
+      "placeholder": "Sélectionner une spécialité",
+      "options": {
+        "all": "Toutes les spécialités",
+        "cardiology": "Cardiologie",
+        "dermatology": "Dermatologie",
+        "endocrinology": "Endocrinologie",
+        "familyMedicine": "Médecine familiale",
+        "gastroenterology": "Gastroentérologie",
+        "neurology": "Neurologie",
+        "obstetrics": "Obstétrique et gynécologie",
+        "ophthalmology": "Ophtalmologie",
+        "orthopedics": "Orthopédie",
+        "pediatrics": "Pédiatrie",
+        "psychiatry": "Psychiatrie",
+        "urology": "Urologie"
+      }
+    },
+    "insurance": {
+      "label": "Assurance",
+      "placeholder": "Sélectionner une assurance"
+    },
+    "availability": {
+      "label": "Disponibilité",
+      "today": "Aujourd'hui",
+      "tomorrow": "Demain",
+      "thisWeek": "Cette semaine",
+      "nextWeek": "Semaine prochaine",
+      "anytime": "N'importe quand"
+    },
+    "distance": {
+      "label": "Distance",
+      "options": {
+        "5": "Dans un rayon de 8 km",
+        "10": "Dans un rayon de 16 km",
+        "15": "Dans un rayon de 24 km",
+        "25": "Dans un rayon de 40 km",
+        "50": "Dans un rayon de 80 km"
+      }
+    },
+    "gender": {
+      "label": "Genre du médecin",
+      "any": "Tous",
+      "male": "Homme",
+      "female": "Femme",
+      "nonBinary": "Non-binaire",
+      "notSpecified": "Préfère ne pas dire"
+    },
+    "language": {
+      "label": "Langues parlées",
+      "placeholder": "Sélectionner les langues"
+    },
+    "rating": {
+      "label": "Évaluation minimum",
+      "any": "Toute évaluation"
+    },
+    "button": "Rechercher des médecins",
+    "clear": "Effacer les filtres",
+    "advancedFilters": "Filtres avancés",
+    "lessFilters": "Moins de filtres"
+  },
+  "results": {
+    "found": "{{count}} médecins trouvés",
+    "noResults": "Aucun médecin ne correspond à vos critères de recherche. Essayez d'ajuster vos filtres.",
+    "sortBy": {
+      "label": "Trier par",
+      "relevance": "Pertinence",
+      "rating": "Évaluation",
+      "distance": "Distance",
+      "availability": "Disponibilité la plus proche"
+    }
+  },
+  "doctorCard": {
+    "yearsExperience": "{{years}} ans d'expérience",
+    "newPatients": "Accepte de nouveaux patients",
+    "notAcceptingPatients": "N'accepte pas de nouveaux patients",
+    "viewProfile": "Voir le profil",
+    "bookAppointment": "Prendre rendez-vous",
+    "telehealth": "Téléconsultation disponible",
+    "inPerson": "Consultations en personne",
+    "distance": "À {{distance}} km"
+  },
+  "pagination": {
+    "previous": "Précédent",
+    "next": "Suivant",
+    "page": "Page {{current}} sur {{total}}"
+  },
+  "filters": {
+    "title": "Filtres",
+    "apply": "Appliquer les filtres",
+    "reset": "Réinitialiser"
+  }
+}

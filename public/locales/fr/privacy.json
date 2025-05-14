@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "title": "Politique de confidentialité",
+    "description": "Découvrez comment Divo collecte, utilise et protège vos informations personnelles"
+  },
+  "header": {
+    "title": "Politique de confidentialité",
+    "lastUpdated": "Dernière mise à jour",
+    "date": "10 mars 2024"
+  },
+  "introduction": {
+    "title": "Introduction",
+    "content": "Chez Divo, nous prenons votre vie privée au sérieux. Cette politique de confidentialité explique comment nous collectons, utilisons, divulguons et protégeons vos informations lorsque vous utilisez notre plateforme. Veuillez lire attentivement cette politique de confidentialité. En continuant à utiliser notre service, vous reconnaissez avoir lu et compris cette politique."
+  },
+  "informationCollection": {
+    "title": "Informations que nous collectons",
+    "personalData": {
+      "title": "Données personnelles",
+      "content": "Nous collectons les informations personnelles que vous nous fournissez volontairement lorsque vous vous inscrivez sur notre plateforme, exprimez un intérêt à obtenir des informations sur nous ou nos services, ou nous contactez de toute autre manière.",
+      "items": [
+        "Coordonnées (nom, adresse e-mail, numéro de téléphone)",
+        "Informations démographiques (date de naissance, sexe)",
+        "Informations de santé (antécédents médicaux, conditions, médicaments)",
+        "Informations d'assurance",
+        "Détails de paiement (le cas échéant)"
+      ]
+    },
+    "automaticData": {
+      "title": "Données collectées automatiquement",
+      "content": "Lorsque vous accédez à notre plateforme, nous pouvons collecter automatiquement certaines informations sur votre appareil et votre utilisation, notamment :",
+      "items": [
+        "Adresse IP et informations sur l'appareil",
+        "Type et paramètres du navigateur",
+        "Système d'exploitation",
+        "Modèles d'utilisation et interaction avec la plateforme",
+        "Heure et date de vos visites"
+      ]
+    },
+    "cookies": {
+      "title": "Cookies et technologies similaires",
+      "content": "Nous utilisons des cookies et des technologies de suivi similaires pour suivre l'activité sur notre plateforme et conserver certaines informations. Vous pouvez configurer votre navigateur pour refuser tous les cookies ou pour signaler quand un cookie est envoyé."
+    }
+  },
+  "informationUse": {
+    "title": "Comment nous utilisons vos informations",
+    "content": "Nous pouvons utiliser les informations que nous collectons auprès de vous à diverses fins, notamment :",
+    "purposes": [
+      {
+        "title": "Fournir et maintenir nos services",
+        "description": "Traiter les rendez-vous, gérer votre compte et offrir les fonctionnalités de notre plateforme"
+      },
+      {
+        "title": "Améliorer et personnaliser votre expérience",
+        "description": "Analyser les données d'utilisation pour améliorer et personnaliser nos services selon vos préférences"
+      },
+      {
+        "title": "Communication",
+        "description": "Vous contacter concernant votre compte, vos rendez-vous, ou répondre à vos demandes"
+      },
+      {
+        "title": "Sécurité",
+        "description": "Surveiller et protéger notre plateforme, nos services et nos utilisateurs contre les activités frauduleuses ou illégales"
+      },
+      {
+        "title": "Conformité légale",
+        "description": "Se conformer aux lois applicables, aux processus juridiques et répondre aux demandes légales"
+      }
+    ]
+  },
+  "informationSharing": {
+    "title": "Partage et divulgation d'informations",
+    "content": "Nous pouvons partager ou divulguer vos informations dans les situations suivantes :",
+    "situations": [
+      {
+        "title": "Prestataires de soins de santé",
+        "description": "Nous partageons vos informations avec des prestataires de soins de santé pour faciliter les rendez-vous médicaux et les services"
+      },
+      {
+        "title": "Fournisseurs de services",
+        "description": "Nous pouvons employer des sociétés tierces pour faciliter notre service, fournir un service en notre nom, ou nous aider à analyser l'utilisation de notre service"
+      },
+      {
+        "title": "Exigences légales",
+        "description": "Nous pouvons divulguer vos informations lorsque la loi l'exige, par requête gouvernementale, ou pour protéger nos droits"
+      },
+      {
+        "title": "Transferts d'entreprise",
+        "description": "Dans le cadre d'une fusion, acquisition ou vente d'actifs, vos informations peuvent être transférées comme actif commercial"
+      }
+    ]
+  },
+  "dataSecurityAndStorage": {
+    "title": "Sécurité et stockage des données",
+    "content": "Nous utilisons des mesures de sécurité administratives, techniques et physiques pour protéger vos informations personnelles. Bien que nous nous efforcions d'utiliser des moyens commercialement acceptables pour protéger vos informations, aucune méthode de transmission sur Internet ou de stockage électronique n'est sécurisée à 100 %."
+  },
+  "dataRetention": {
+    "title": "Conservation des données",
+    "content": "Nous conserverons vos informations personnelles uniquement pendant le temps nécessaire aux fins énoncées dans cette politique de confidentialité. Nous conserverons et utiliserons vos informations dans la mesure nécessaire pour nous conformer à nos obligations légales, résoudre les différends et appliquer nos politiques."
+  },
+  "yourRights": {
+    "title": "Vos droits à la vie privée",
+    "content": "Selon votre emplacement, vous pouvez avoir les droits suivants concernant vos informations personnelles :",
+    "rights": [
+      "Accéder et recevoir une copie de vos données personnelles",
+      "Rectifier ou mettre à jour vos données personnelles",
+      "Demander la suppression de vos données personnelles",
+      "S'opposer au traitement de vos données personnelles",
+      "Portabilité des données",
+      "Retirer votre consentement"
+    ],
+    "request": "Pour exercer ces droits, veuillez nous contacter en utilisant les coordonnées fournies dans la section 'Contactez-nous'."
+  },
+  "childrenPrivacy": {
+    "title": "Confidentialité des enfants",
+    "content": "Notre plateforme n'est pas destinée aux enfants de moins de 13 ans. Nous ne collectons pas sciemment d'informations personnellement identifiables d'enfants de moins de 13 ans. Si vous êtes un parent ou un tuteur et que vous savez que votre enfant nous a fourni des données personnelles, veuillez nous contacter."
+  },
+  "thirdPartyLinks": {
+    "title": "Liens vers des tiers",
+    "content": "Notre plateforme peut contenir des liens vers des sites Web ou des services tiers qui ne sont pas détenus ou contrôlés par Divo. Nous n'avons aucun contrôle et n'assumons aucune responsabilité quant au contenu, aux politiques de confidentialité ou aux pratiques des sites ou services tiers."
+  },
+  "policyChanges": {
+    "title": "Modifications de cette politique de confidentialité",
+    "content": "Nous pouvons mettre à jour notre politique de confidentialité de temps à autre. Nous vous informerons de tout changement en publiant la nouvelle politique de confidentialité sur cette page et en mettant à jour la date de 'Dernière mise à jour'."
+  },
+  "contactUs": {
+    "title": "Contactez-nous",
+    "content": "Si vous avez des questions ou des préoccupations concernant cette politique de confidentialité ou nos pratiques, veuillez nous contacter à :",
+    "email": "privacy@divo.com",
+    "phone": "+1 (800) 123-4567",
+    "address": "123 Privacy Lane, Securityville, CA 94123, USA"
+  }
+}

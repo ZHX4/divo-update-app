@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "Appointments",
+    "description": "Manage your upcoming and past medical appointments"
+  },
+  "header": {
+    "title": "Your Appointments",
+    "subtitle": "Schedule and manage your healthcare visits"
+  },
+  "tabs": {
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "pending": "Pending Confirmation",
+    "cancelled": "Cancelled"
+  },
+  "upcoming": {
+    "title": "Upcoming Appointments",
+    "empty": "No upcoming appointments",
+    "schedule": "Schedule an appointment"
+  },
+  "past": {
+    "title": "Past Appointments",
+    "empty": "No past appointments",
+    "viewReport": "View report"
+  },
+  "pending": {
+    "title": "Pending Appointments",
+    "empty": "No pending appointments",
+    "awaitingConfirmation": "Awaiting confirmation from provider"
+  },
+  "cancelled": {
+    "title": "Cancelled Appointments",
+    "empty": "No cancelled appointments",
+    "reason": "Reason"
+  },
+  "appointmentCard": {
+    "with": "with",
+    "at": "at",
+    "virtualVisit": "Virtual Visit",
+    "inPerson": "In-Person",
+    "status": {
+      "confirmed": "Confirmed",
+      "pending": "Pending",
+      "cancelled": "Cancelled",
+      "completed": "Completed",
+      "missed": "Missed",
+      "rescheduled": "Rescheduled"
+    },
+    "actions": {
+      "viewDetails": "View Details",
+      "cancel": "Cancel",
+      "reschedule": "Reschedule",
+      "checkIn": "Check In",
+      "joinCall": "Join Video Call",
+      "directions": "Get Directions",
+      "addToCalendar": "Add to Calendar",
+      "leaveReview": "Leave Review",
+      "viewSummary": "View Summary"
+    }
+  },
+  "details": {
+    "title": "Appointment Details",
+    "date": "Date",
+    "time": "Time",
+    "duration": "Duration",
+    "provider": "Provider",
+    "location": "Location",
+    "visitType": "Visit Type",
+    "reasonForVisit": "Reason for Visit",
+    "notes": "Notes",
+    "insurance": "Insurance",
+    "copay": "Copay",
+    "documents": "Documents",
+    "prepInstructions": "Preparation Instructions",
+    "contactInfo": "Contact Information",
+    "emergencyContact": "Emergency Contact"
+  },
+  "schedule": {
+    "title": "Schedule an Appointment",
+    "step1": "Select Provider",
+    "step2": "Select Service",
+    "step3": "Select Date & Time",
+    "step4": "Confirm Details",
+    "chooseProvider": "Choose a provider",
+    "chooseService": "Choose a service",
+    "chooseDateTime": "Choose a date and time",
+    "confirmDetails": "Confirm your details",
+    "preferredTime": "Preferred time",
+    "morning": "Morning",
+    "afternoon": "Afternoon",
+    "evening": "Evening",
+    "visitType": "Visit type",
+    "visitReason": "Reason for visit",
+    "insurance": "Insurance information",
+    "additionalNotes": "Additional notes for the provider",
+    "termsAgree": "I agree to the terms and policies",
+    "submit": "Schedule Appointment",
+    "back": "Back",
+    "next": "Next"
+  },
+  "confirmation": {
+    "title": "Appointment Confirmed",
+    "details": "Your appointment has been scheduled",
+    "summary": "Summary",
+    "addToCalendar": "Add to Calendar",
+    "receiveReminder": "You will receive a reminder 24 hours before your appointment",
+    "makeChanges": "Need to make changes?",
+    "contactUs": "Contact us",
+    "viewAppointments": "View my appointments"
+  },
+  "cancel": {
+    "title": "Cancel Appointment",
+    "warning": "Are you sure you want to cancel this appointment?",
+    "reason": "Reason for cancellation (optional)",
+    "policyNote": "Please note our cancellation policy: Appointments cancelled less than 24 hours in advance may incur a cancellation fee.",
+    "confirm": "Yes, cancel appointment",
+    "back": "No, keep appointment"
+  },
+  "reschedule": {
+    "title": "Reschedule Appointment",
+    "currentAppointment": "Current appointment",
+    "selectNewDate": "Select a new date and time",
+    "reason": "Reason for rescheduling (optional)",
+    "policyNote": "Please note: Rescheduling less than 24 hours before your appointment may incur a fee.",
+    "confirm": "Confirm Reschedule",
+    "cancel": "Cancel"
+  },
+  "filters": {
+    "search": "Search appointments",
+    "dateRange": "Date range",
+    "provider": "Provider",
+    "location": "Location",
+    "type": "Appointment type",
+    "status": "Status",
+    "apply": "Apply Filters",
+    "clear": "Clear Filters",
+    "sortBy": "Sort by",
+    "sortOptions": {
+      "dateAsc": "Date (oldest first)",
+      "dateDesc": "Date (newest first)",
+      "providerAZ": "Provider (A to Z)",
+      "providerZA": "Provider (Z to A)"
+    }
+  }
+}

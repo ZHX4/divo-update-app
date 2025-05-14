@@ -1,0 +1,78 @@
+{
+  "header": {
+    "home": "Home",
+    "appointments": "Appointments",
+    "doctors": "Find Doctors",
+    "healthRecords": "Health Records",
+    "about": "About",
+    "features": "Features",
+    "settings": "Settings",
+    "profile": "Profile"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "legal": "Legal",
+    "aboutUs": "About Us",
+    "findDoctors": "Find Doctors",
+    "appointments": "Appointments",
+    "features": "Features",
+    "contactUs": "Contact Us",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "cookiePolicy": "Cookie Policy",
+    "disclaimer": "Disclaimer",
+    "copyright": "© {{year}} Divo, Inc. All rights reserved.",
+    "sitemap": "Sitemap"
+  },
+  "languages": {
+    "english": "English",
+    "arabic": "Arabic",
+    "french": "French"
+  },
+  "general": {
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "success": "Success!",
+    "required": "Required",
+    "optional": "Optional",
+    "languageSelection": "Language Selection",
+    "language": "Language",
+    "selectLanguage": "Select language"
+  },
+  "buttons": {
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "signOut": "Sign Out",
+    "save": "Save",
+    "cancel": "Cancel",
+    "update": "Update",
+    "delete": "Delete",
+    "add": "Add",
+    "edit": "Edit",
+    "view": "View"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "login": "Login",
+    "register": "Register",
+    "forgotPassword": "Forgot Password?",
+    "alreadyHaveAccount": "Already have an account?",
+    "dontHaveAccount": "Don't have an account?"
+  },
+  "settings": {
+    "title": "Settings",
+    "theme": "Theme",
+    "language": "Language",
+    "notifications": "Notifications",
+    "profile": "Profile",
+    "security": "Security"
+  },
+  "navigation": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "appointments": "Appointments",
+    "settings": "Settings",
+    "profile": "Profile"
+  }
+}

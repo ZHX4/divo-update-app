@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Avis de non-responsabilité",
+    "description": "Avis de non-responsabilité juridique pour la plateforme de soins de santé Divo"
+  },
+  "header": {
+    "title": "Avis de non-responsabilité",
+    "lastUpdated": "Dernière mise à jour",
+    "date": "28 février 2024"
+  },
+  "sections": {
+    "introduction": {
+      "title": "Introduction",
+      "content": "Les informations fournies par Divo Healthcare ('nous', 'notre' ou 'nos') sur notre site web et application mobile (le 'Service') sont uniquement à titre informatif général. Toutes les informations sur le Service sont fournies de bonne foi, cependant nous ne faisons aucune représentation ou garantie d'aucune sorte, expresse ou implicite, concernant l'exactitude, l'adéquation, la validité, la fiabilité, la disponibilité ou l'exhaustivité de toute information sur le Service."
+    },
+    "notMedicalAdvice": {
+      "title": "Pas un avis médical",
+      "content": "Le contenu fourni par notre Service n'est pas destiné à remplacer les conseils médicaux, le diagnostic ou le traitement professionnels. Consultez toujours votre médecin ou autre prestataire de soins de santé qualifié pour toute question que vous pourriez avoir concernant une condition médicale. Ne négligez jamais les conseils médicaux professionnels ou ne tardez pas à les consulter en raison de quelque chose que vous avez lu ou consulté via notre Service.",
+      "emergencies": "Si vous pensez que vous pourriez avoir une urgence médicale, appelez votre médecin, rendez-vous au service d'urgence ou appelez immédiatement les services d'urgence. La confiance accordée à toute information fournie par notre Service est uniquement à vos propres risques."
+    },
+    "contentAccuracy": {
+      "title": "Exactitude du contenu",
+      "content": "Bien que nous nous efforcions de fournir des informations précises et à jour, notre Service peut contenir des inexactitudes ou des erreurs typographiques. Nous nous réservons le droit de corriger toute erreur, inexactitude ou omission, et de modifier ou mettre à jour les informations à tout moment sans préavis.",
+      "userResponsibility": "Il est de votre responsabilité de vérifier toutes les informations avant de vous y fier. L'utilisation de notre Service est à vos seuls risques."
+    },
+    "externalLinks": {
+      "title": "Liens externes",
+      "content": "Notre Service peut contenir des liens vers des sites web externes qui ne sont pas fournis ou maintenus par nous ou affiliés à nous de quelque manière que ce soit. Veuillez noter que nous ne garantissons pas l'exactitude, la pertinence, l'actualité ou l'exhaustivité des informations sur ces sites web externes.",
+      "thirdPartyContent": "Nous ne contrôlons pas et ne sommes pas responsables du contenu, des pratiques de confidentialité ou de la fiabilité de tout site web, service ou ressource tiers auxquels des liens ou un accès sont fournis par notre Service."
+    },
+    "telehealth": {
+      "title": "Limites de la télésanté",
+      "content": "Les services de télésanté fournis via notre plateforme sont soumis aux limites de la technologie. Des problèmes techniques ou des défaillances d'équipement peuvent entraîner des retards dans l'évaluation médicale ou le traitement. La télésanté peut ne pas être appropriée pour toutes les conditions de santé, et une consultation en personne peut être nécessaire.",
+      "notAllConditions": "Toutes les conditions médicales ne peuvent pas être correctement diagnostiquées ou traitées via la télésanté. Les prestataires de soins de santé utiliseront leur jugement professionnel pour déterminer si la télésanté est appropriée pour vos besoins."
+    },
+    "healthRecords": {
+      "title": "Dossiers de santé",
+      "content": "Bien que nous mettions en œuvre des mesures de sécurité pour protéger vos informations de santé, aucun système n'est complètement sécurisé. Nous ne pouvons pas garantir la sécurité de vos informations personnelles transmises par notre Service.",
+      "accuracy": "Nous nous appuyons sur l'exactitude des informations fournies par les utilisateurs, les prestataires de soins de santé et les tiers. Nous ne sommes pas responsables des inexactitudes dans vos dossiers de santé résultant d'informations incorrectes qui nous sont fournies."
+    },
+    "professionalCredentials": {
+      "title": "Qualifications professionnelles",
+      "content": "Nous faisons des efforts raisonnables pour vérifier les titres de compétence et les qualifications des prestataires de soins de santé répertoriés sur notre plateforme. Cependant, nous ne garantissons pas l'exactitude de tous les titres de compétence, qualifications ou informations fournis par les prestataires de soins de santé.",
+      "selection": "Le choix d'un prestataire de soins de santé est votre décision. Nous vous recommandons de faire vos propres recherches avant de sélectionner un prestataire."
+    },
+    "limitations": {
+      "title": "Limitation de responsabilité",
+      "content": "En aucun cas, Divo Healthcare, ni ses directeurs, employés, partenaires, agents, fournisseurs ou affiliés, ne seront responsables de tout dommage indirect, accessoire, spécial, consécutif ou punitif, y compris, sans limitation, la perte de profits, de données, d'utilisation, de bonne volonté ou d'autres pertes intangibles, résultant de (i) votre accès ou utilisation ou incapacité d'accéder ou d'utiliser le Service; (ii) toute conduite ou contenu de tiers sur le Service; (iii) tout contenu obtenu à partir du Service; et (iv) l'accès, l'utilisation ou la modification non autorisés de vos transmissions ou contenus, que ce soit sur la base d'une garantie, d'un contrat, d'un délit (y compris la négligence) ou de toute autre théorie juridique, que nous ayons été informés ou non de la possibilité de tels dommages."
+    },
+    "changes": {
+      "title": "Modifications de cet avis de non-responsabilité",
+      "content": "Nous pouvons mettre à jour notre Avis de non-responsabilité de temps à autre. Nous vous informerons de tout changement en publiant le nouvel Avis de non-responsabilité sur cette page. Il vous est conseillé de consulter périodiquement cet Avis de non-responsabilité pour tout changement."
+    }
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "content": "Si vous avez des questions concernant cet Avis de non-responsabilité, veuillez nous contacter à:",
+    "email": "legal@divo.com",
+    "phone": "+1 (800) 123-4567"
+  }
+}

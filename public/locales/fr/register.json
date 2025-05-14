@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Inscription",
+    "description": "Créez un nouveau compte sur la plateforme de santé Divo"
+  },
+  "header": {
+    "title": "Créer un compte",
+    "subtitle": "Rejoignez Divo pour accéder à des services de santé simplifiés"
+  },
+  "form": {
+    "personalInfo": {
+      "title": "Informations personnelles",
+      "firstName": {
+        "label": "Prénom",
+        "placeholder": "Entrez votre prénom"
+      },
+      "lastName": {
+        "label": "Nom",
+        "placeholder": "Entrez votre nom"
+      },
+      "email": {
+        "label": "Adresse e-mail",
+        "placeholder": "Entrez votre adresse e-mail"
+      },
+      "phone": {
+        "label": "Numéro de téléphone",
+        "placeholder": "Entrez votre numéro de téléphone"
+      },
+      "dateOfBirth": {
+        "label": "Date de naissance",
+        "placeholder": "Choisissez votre date de naissance"
+      },
+      "gender": {
+        "label": "Genre",
+        "options": {
+          "male": "Homme",
+          "female": "Femme",
+          "other": "Autre",
+          "preferNotToSay": "Préfère ne pas répondre"
+        }
+      }
+    },
+    "accountInfo": {
+      "title": "Informations du compte",
+      "password": {
+        "label": "Mot de passe",
+        "placeholder": "Créez un mot de passe"
+      },
+      "confirmPassword": {
+        "label": "Confirmer le mot de passe",
+        "placeholder": "Répétez votre mot de passe"
+      }
+    },
+    "termsAndConsent": {
+      "termsOfService": "J'accepte les <link>conditions d'utilisation</link> et la <privacyLink>politique de confidentialité</privacyLink>",
+      "marketingConsent": "Je souhaite recevoir des mises à jour et des conseils de santé par e-mail (facultatif)"
+    },
+    "submitButton": "Créer un compte",
+    "loading": "Création du compte...",
+    "errors": {
+      "firstNameRequired": "Le prénom est requis",
+      "lastNameRequired": "Le nom est requis",
+      "emailRequired": "L'adresse e-mail est requise",
+      "validEmail": "Veuillez entrer une adresse e-mail valide",
+      "phoneRequired": "Le numéro de téléphone est requis",
+      "validPhone": "Veuillez entrer un numéro de téléphone valide",
+      "dobRequired": "La date de naissance est requise",
+      "mustBe18": "Vous devez avoir au moins 18 ans",
+      "passwordRequired": "Le mot de passe est requis",
+      "passwordMinLength": "Le mot de passe doit comporter au moins 8 caractères",
+      "passwordRequirements": "Le mot de passe doit contenir au moins une majuscule, une minuscule, un chiffre et un caractère spécial",
+      "passwordsDoNotMatch": "Les mots de passe ne correspondent pas",
+      "termsRequired": "Vous devez accepter les conditions d'utilisation et la politique de confidentialité",
+      "emailExists": "Cette adresse e-mail est déjà utilisée"
+    }
+  },
+  "socialSignup": {
+    "title": "Ou s'inscrire avec",
+    "google": "Continuer avec Google",
+    "apple": "Continuer avec Apple",
+    "facebook": "Continuer avec Facebook"
+  },
+  "login": {
+    "prompt": "Vous avez déjà un compte ?",
+    "link": "Se connecter"
+  },
+  "securityInfo": "Vos informations sont sécurisées et cryptées. Nous ne partagerons jamais vos données avec des tiers sans votre consentement."
+}

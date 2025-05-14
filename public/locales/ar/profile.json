@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "title": "الملف الشخصي",
+    "description": "عرض وتعديل معلومات ملفك الشخصي على ديفو"
+  },
+  "header": {
+    "title": "ملفك الشخصي",
+    "subtitle": "إدارة معلوماتك الشخصية والطبية"
+  },
+  "tabs": {
+    "personal": "المعلومات الشخصية",
+    "medical": "المعلومات الطبية",
+    "insurance": "التأمين",
+    "preferences": "التفضيلات",
+    "providers": "مقدمو الخدمات المفضلون"
+  },
+  "personalInfo": {
+    "title": "المعلومات الشخصية",
+    "photo": {
+      "label": "صورة الملف الشخصي",
+      "upload": "تحميل صورة",
+      "remove": "إزالة الصورة"
+    },
+    "name": {
+      "first": {
+        "label": "الاسم الأول",
+        "placeholder": "أدخل اسمك الأول"
+      },
+      "middle": {
+        "label": "الاسم الأوسط",
+        "placeholder": "أدخل اسمك الأوسط (اختياري)"
+      },
+      "last": {
+        "label": "اسم العائلة",
+        "placeholder": "أدخل اسم عائلتك"
+      }
+    },
+    "contact": {
+      "email": {
+        "label": "البريد الإلكتروني",
+        "placeholder": "أدخل بريدك الإلكتروني"
+      },
+      "phone": {
+        "label": "رقم الهاتف",
+        "placeholder": "أدخل رقم هاتفك"
+      }
+    },
+    "personal": {
+      "dob": {
+        "label": "تاريخ الميلاد",
+        "placeholder": "اختر تاريخ ميلادك"
+      },
+      "gender": {
+        "label": "الجنس",
+        "options": {
+          "male": "ذكر",
+          "female": "أنثى",
+          "other": "آخر",
+          "preferNotToSay": "أفضل عدم القول"
+        }
+      },
+      "maritalStatus": {
+        "label": "الحالة الاجتماعية",
+        "options": {
+          "single": "أعزب",
+          "married": "متزوج",
+          "divorced": "مطلق",
+          "widowed": "أرمل",
+          "other": "آخر"
+        }
+      }
+    },
+    "address": {
+      "title": "العنوان",
+      "street1": {
+        "label": "السطر 1",
+        "placeholder": "عنوان الشارع"
+      },
+      "street2": {
+        "label": "السطر 2",
+        "placeholder": "شقة، جناح، وحدة، الخ."
+      },
+      "city": {
+        "label": "المدينة",
+        "placeholder": "أدخل المدينة"
+      },
+      "state": {
+        "label": "الولاية/المقاطعة",
+        "placeholder": "اختر الولاية/المقاطعة"
+      },
+      "zipCode": {
+        "label": "الرمز البريدي",
+        "placeholder": "أدخل الرمز البريدي"
+      },
+      "country": {
+        "label": "البلد",
+        "placeholder": "اختر البلد"
+      }
+    },
+    "emergency": {
+      "title": "جهة اتصال للطوارئ",
+      "name": {
+        "label": "الاسم",
+        "placeholder": "اسم جهة اتصال الطوارئ"
+      },
+      "relationship": {
+        "label": "العلاقة",
+        "placeholder": "العلاقة بك"
+      },
+      "phone": {
+        "label": "رقم الهاتف",
+        "placeholder": "رقم هاتف الطوارئ"
+      }
+    },
+    "saveButton": "حفظ التغييرات",
+    "cancelButton": "إلغاء",
+    "successMessage": "تم تحديث معلوماتك الشخصية بنجاح",
+    "errorMessage": "حدث خطأ أثناء حفظ معلوماتك. يرجى المحاولة مرة أخرى."
+  },
+  "medicalInfo": {
+    "title": "المعلومات الطبية",
+    "allergies": {
+      "title": "الحساسية",
+      "label": "هل لديك أي حساسية؟",
+      "options": {
+        "yes": "نعم",
+        "no": "لا"
+      },
+      "list": {
+        "label": "الحساسية",
+        "add": "إضافة حساسية",
+        "placeholder": "أدخل الحساسية",
+        "reaction": "رد الفعل",
+        "severity": {
+          "label": "الشدة",
+          "options": {
+            "mild": "خفيفة",
+            "moderate": "متوسطة",
+            "severe": "شديدة"
+          }
+        },
+        "remove": "إزالة"
+      }
+    },
+    "medications": {
+      "title": "الأدوية الحالية",
+      "label": "هل تتناول حاليًا أي أدوية؟",
+      "options": {
+        "yes": "نعم",
+        "no": "لا"
+      },
+      "list": {
+        "label": "الدواء",
+        "add": "إضافة دواء",
+        "placeholder": "اسم الدواء",
+        "dosage": "الجرعة",
+        "frequency": "التكرار",
+        "reason": "سبب الاستخدام",
+        "remove": "إزالة"
+      }
+    },
+    "conditions": {
+      "title": "الحالات الطبية",
+      "label": "هل تم تشخيصك بأي حالات طبية؟",
+      "options": {
+        "yes": "نعم",
+        "no": "لا"
+      },
+      "list": {
+        "label": "الحالة",
+        "add": "إضافة حالة",
+        "placeholder": "أدخل الحالة",
+        "diagnosedDate": "تاريخ التشخيص",
+        "currentStatus": {
+          "label": "الحالة الحالية",
+          "options": {
+            "active": "نشطة",
+            "managed": "تحت السيطرة",
+            "resolved": "تم حلها"
+          }
+        },
+        "remove": "إزالة"
+      }
+    },
+    "surgeries": {
+      "title": "العمليات الجراحية",
+      "label": "هل خضعت لأي عمليات جراحية؟",
+      "options": {
+        "yes": "نعم",
+        "no": "لا"
+      },
+      "list": {
+        "label": "العملية الجراحية",
+        "add": "إضافة عملية جراحية",
+        "placeholder": "اسم العملية",
+        "date": "تاريخ العملية",
+        "hospital": "المستشفى",
+        "reason": "سبب العملية",
+        "remove": "إزالة"
+      }
+    },
+    "familyHistory": {
+      "title": "التاريخ العائلي",
+      "list": {
+        "label": "الحالة",
+        "add": "إضافة حالة عائلية",
+        "placeholder": "حالة طبية",
+        "relation": "العلاقة",
+        "remove": "إزالة"
+      }
+    },
+    "lifestyle": {
+      "title": "عوامل نمط الحياة",
+      "smoking": {
+        "label": "التدخين",
+        "options": {
+          "never": "لم أدخن أبدًا",
+          "former": "مدخن سابق",
+          "current": "مدخن حالي",
+          "occasional": "مدخن عرضي"
+        }
+      },
+      "alcohol": {
+        "label": "استهلاك الكحول",
+        "options": {
+          "never": "لا أشرب",
+          "occasional": "عرضي",
+          "moderate": "معتدل",
+          "heavy": "ثقيل"
+        }
+      },
+      "exercise": {
+        "label": "التمارين الرياضية",
+        "options": {
+          "sedentary": "قليل الحركة",
+          "light": "خفيف",
+          "moderate": "معتدل",
+          "active": "نشط",
+          "veryActive": "نشط جدًا"
+        }
+      }
+    },
+    "saveButton": "حفظ المعلومات الطبية",
+    "cancelButton": "إلغاء",
+    "successMessage": "تم تحديث معلوماتك الطبية بنجاح",
+    "errorMessage": "حدث خطأ أثناء حفظ معلوماتك الطبية. يرجى المحاولة مرة أخرى."
+  },
+  "insuranceInfo": {
+    "title": "معلومات التأمين",
+    "primary": {
+      "title": "التأمين الأساسي",
+      "provider": {
+        "label": "شركة التأمين",
+        "placeholder": "اختر شركة التأمين"
+      },
+      "policyNumber": {
+        "label": "رقم البوليصة",
+        "placeholder": "أدخل رقم البوليصة"
+      },
+      "groupNumber": {
+        "label": "رقم المجموعة",
+        "placeholder": "أدخل رقم المجموعة (اختياري)"
+      },
+      "policyHolder": {
+        "label": "حامل البوليصة",
+        "self": "أنا",
+        "other": "شخص آخر"
+      },
+      "holderInfo": {
+        "name": {
+          "label": "اسم حامل البوليصة",
+          "placeholder": "أدخل الاسم الكامل"
+        },
+        "relationship": {
+          "label": "العلاقة بحامل البوليصة",
+          "placeholder": "اختر العلاقة",
+          "options": {
+            "spouse": "زوج/زوجة",
+            "parent": "والد/والدة",
+            "child": "طفل",
+            "other": "أخرى"
+          }
+        },
+        "dob": {
+          "label": "تاريخ ميلاد حامل البوليصة",
+          "placeholder": "اختر التاريخ"
+        }
+      },
+      "uploadCard": {
+        "label": "تحميل صورة بطاقة التأمين",
+        "front": "الأمامية",
+        "back": "الخلفية",
+        "drag": "قم بسحب وإفلات الملف هنا، أو انقر للتصفح"
+      }
+    },
+    "secondary": {
+      "title": "التأمين الثانوي (اختياري)",
+      "hasSecondary": {
+        "label": "هل لديك تأمين ثانوي؟",
+        "yes": "نعم",
+        "no": "لا"
+      },
+      "info": "نفس معلومات التأمين الأساسي المذكورة أعلاه"
+    },
+    "verification": {
+      "title": "التحقق من التأمين",
+      "status": {
+        "pending": "قيد الانتظار",
+        "verified": "تم التحقق",
+        "failed": "فشل التحقق",
+        "notSubmitted": "لم يتم تقديمه بعد"
+      },
+      "instructions": "قد نتصل بك للحصول على معلومات إضافية إذا واجهنا مشكلات في التحقق من تغطية تأمينك."
+    },
+    "saveButton": "حفظ معلومات التأمين",
+    "cancelButton": "إلغاء",
+    "successMessage": "تم تحديث معلومات التأمين بنجاح",
+    "errorMessage": "حدث خطأ أثناء حفظ معلومات التأمين. يرجى المحاولة مرة أخرى."
+  },
+  "preferences": {
+    "title": "تفضيلات الحساب",
+    "communications": {
+      "title": "تفضيلات الاتصال",
+      "reminders": {
+        "label": "تذكيرات المواعيد",
+        "email": "البريد الإلكتروني",
+        "sms": "الرسائل النصية",
+        "both": "كلاهما",
+        "none": "بدون تذكيرات"
+      },
+      "notifications": {
+        "label": "الإشعارات",
+        "options": {
+          "appointments": "تغييرات المواعيد",
+          "messaging": "الرسائل من مقدمي الخدمات",
+          "results": "نتائج الاختبارات الجديدة",
+          "prescriptions": "تحديثات الوصفات الطبية",
+          "newsletters": "النشرات الإخبارية والتحديثات الصحية"
+        }
+      },
+      "timing": {
+        "label": "توقيت التذكير",
+        "options": {
+          "1day": "قبل يوم واحد",
+          "2days": "قبل يومين",
+          "1week": "قبل أسبوع واحد",
+          "custom": "مخصص"
+        }
+      }
+    },
+    "accessibility": {
+      "title": "تفضيلات إمكانية الوصول",
+      "fontSize": {
+        "label": "حجم الخط",
+        "options": {
+          "default": "افتراضي",
+          "large": "كبير",
+          "larger": "أكبر"
+        }
+      },
+      "contrast": {
+        "label": "التباين",
+        "options": {
+          "default": "افتراضي",
+          "high": "عالي"
+        }
+      },
+      "animations": {
+        "label": "الرسوم المتحركة",
+        "options": {
+          "enabled": "ممكّنة",
+          "reduced": "مقللة"
+        }
+      },
+      "screenReader": {
+        "label": "تحسين قارئ الشاشة",
+        "options": {
+          "enabled": "ممكّن",
+          "disabled": "معطّل"
+        }
+      }
+    },
+    "language": {
+      "title": "تفضيلات اللغة",
+      "preferred": {
+        "label": "اللغة المفضلة",
+        "options": {
+          "en": "الإنجليزية",
+          "ar": "العربية",
+          "fr": "الفرنسية",
+          "es": "الإسبانية"
+        }
+      },
+      "needInterpreter": {
+        "label": "هل تحتاج إلى مترجم فوري للمواعيد؟",
+        "yes": "نعم",
+        "no": "لا"
+      }
+    },
+    "privacy": {
+      "title": "خيارات الخصوصية",
+      "shareData": {
+        "label": "مشاركة البيانات للبحث الطبي",
+        "description": "السماح باستخدام بياناتك الصحية المجهولة للمساعدة في تحسين الرعاية الصحية والبحث الطبي.",
+        "yes": "نعم، أسمح",
+        "no": "لا، لا تشارك"
+      },
+      "shareDirectories": {
+        "label": "القوائم والأدلة",
+        "description": "السماح للمرضى الآخرين بالعثور عليك في دليل المرضى (للمجموعات فقط).",
+        "yes": "نعم، أسمح",
+        "no": "لا، احتفظ بخصوصيتي"
+      }
+    },
+    "saveButton": "حفظ التفضيلات",
+    "cancelButton": "إلغاء",
+    "successMessage": "تم تحديث تفضيلاتك بنجاح",
+    "errorMessage": "حدث خطأ أثناء حفظ تفضيلاتك. يرجى المحاولة مرة أخرى."
+  },
+  "preferredProviders": {
+    "title": "مقدمو الخدمات المفضلون",
+    "description": "إدارة مقدمي الخدمات الصحية الذين تفضل العمل معهم.",
+    "primaryCare": {
+      "title": "مقدم الرعاية الأولية",
+      "select": "اختر مقدم الرعاية الأولية",
+      "search": "البحث عن مقدمي الخدمات",
+      "noPrimary": "لم يتم تعيين مقدم رعاية أولية",
+      "current": "مقدم الرعاية الأولية الحالي"
+    },
+    "specialists": {
+      "title": "الأخصائيون",
+      "add": "إضافة أخصائي",
+      "search": "البحث عن أخصائي",
+      "noSpecialists": "لم تقم بإضافة أي أخصائيين",
+      "specialty": "التخصص",
+      "remove": "إزالة"
+    },
+    "providerCard": {
+      "contactInfo": "معلومات الاتصال",
+      "viewProfile": "عرض الملف الشخصي",
+      "lastVisit": "آخر زيارة",
+      "upcomingAppointment": "الموعد القادم"
+    },
+    "saveButton": "حفظ مقدمي الخدمات المفضلين",
+    "cancelButton": "إلغاء",
+    "successMessage": "تم تحديث مقدمي الخدمات المفضلين بنجاح",
+    "errorMessage": "حدث خطأ أثناء حفظ مقدمي الخدمات المفضلين. يرجى المحاولة مرة أخرى."
+  },
+  "completionStatus": {
+    "title": "اكتمال الملف الشخصي",
+    "complete": "مكتمل",
+    "incomplete": "غير مكتمل",
+    "percentComplete": "{{percent}}% مكتمل",
+    "completeProfile": "إكمال ملفك الشخصي لتحسين تجربتك"
+  }
+}

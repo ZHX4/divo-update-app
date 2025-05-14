@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "Politique de cookies",
+    "description": "Découvrez comment Divo utilise les cookies et technologies similaires sur notre plateforme"
+  },
+  "header": {
+    "title": "Politique de cookies",
+    "lastUpdated": "Dernière mise à jour",
+    "date": "5 mars 2024"
+  },
+  "introduction": {
+    "title": "Introduction",
+    "content": "Cette politique de cookies explique comment Divo Healthcare ('Divo', 'nous', 'notre' et 'nos') utilise les cookies et technologies similaires pour vous reconnaître lorsque vous visitez notre site web et utilisez nos services. Elle explique ce que sont ces technologies et pourquoi nous les utilisons, ainsi que vos droits pour contrôler notre utilisation de celles-ci."
+  },
+  "whatAreCookies": {
+    "title": "Que sont les cookies?",
+    "content": "Les cookies sont de petits fichiers de données qui sont placés sur votre ordinateur ou appareil mobile lorsque vous visitez un site web. Les cookies sont largement utilisés par les propriétaires de sites web afin de faire fonctionner leurs sites, ou de les faire fonctionner plus efficacement, ainsi que pour fournir des informations de rapport."
+  },
+  "whyWeUseCookies": {
+    "title": "Pourquoi utilisons-nous des cookies?",
+    "content": "Nous utilisons des cookies pour plusieurs raisons. Certains cookies sont nécessaires pour des raisons techniques afin que notre site web puisse fonctionner, et nous les appelons cookies 'essentiels' ou 'strictement nécessaires'. D'autres cookies nous permettent de suivre et de cibler les intérêts de nos utilisateurs pour améliorer l'expérience sur notre site. Des tiers servent des cookies via notre site web à des fins de publicité, d'analyse et à d'autres fins.",
+    "types": {
+      "title": "Les types spécifiques de cookies servis via notre site web et les fonctions qu'ils remplissent:",
+      "essential": {
+        "title": "Cookies essentiels",
+        "description": "Ces cookies sont strictement nécessaires pour vous fournir les services disponibles via notre site web et pour utiliser certaines de ses fonctionnalités, comme l'accès aux zones sécurisées."
+      },
+      "performance": {
+        "title": "Cookies de performance et de fonctionnalité",
+        "description": "Ces cookies sont utilisés pour améliorer la performance et la fonctionnalité de notre site web mais ne sont pas essentiels à son utilisation. Cependant, sans ces cookies, certaines fonctionnalités peuvent devenir indisponibles."
+      },
+      "analytics": {
+        "title": "Cookies d'analyse et de personnalisation",
+        "description": "Ces cookies collectent des informations qui sont utilisées soit sous forme agrégée pour nous aider à comprendre comment notre site web est utilisé ou l'efficacité de nos campagnes marketing, soit pour nous aider à personnaliser notre site web pour vous."
+      },
+      "advertising": {
+        "title": "Cookies publicitaires",
+        "description": "Ces cookies sont utilisés pour rendre les messages publicitaires plus pertinents pour vous. Ils remplissent des fonctions comme empêcher la même publicité de réapparaître continuellement, s'assurer que les publicités sont correctement affichées pour les annonceurs, et dans certains cas, sélectionner des publicités qui sont basées sur vos intérêts."
+      },
+      "social": {
+        "title": "Cookies de réseaux sociaux",
+        "description": "Ces cookies sont utilisés pour vous permettre de partager des pages et du contenu qui vous intéressent sur notre site web via des réseaux sociaux tiers et d'autres sites web. Ces cookies peuvent également être utilisés à des fins publicitaires."
+      }
+    }
+  },
+  "cookiesUsed": {
+    "title": "Cookies que nous utilisons",
+    "table": {
+      "name": "Nom",
+      "provider": "Fournisseur",
+      "purpose": "Objectif",
+      "expiry": "Expiration",
+      "type": "Type"
+    },
+    "entries": [
+      {
+        "name": "session_id",
+        "provider": "Divo",
+        "purpose": "Utilisé pour maintenir votre session et votre état d'authentification",
+        "expiry": "Session",
+        "type": "Essentiel"
+      },
+      {
+        "name": "preferences",
+        "provider": "Divo",
+        "purpose": "Utilisé pour stocker vos préférences comme la langue et le thème",
+        "expiry": "1 an",
+        "type": "Fonctionnel"
+      },
+      {
+        "name": "_ga",
+        "provider": "Google",
+        "purpose": "Utilisé pour distinguer les utilisateurs à des fins d'analyse",
+        "expiry": "2 ans",
+        "type": "Analytique"
+      },
+      {
+        "name": "_gid",
+        "provider": "Google",
+        "purpose": "Utilisé pour distinguer les utilisateurs à des fins d'analyse",
+        "expiry": "24 heures",
+        "type": "Analytique"
+      }
+    ]
+  },
+  "controlCookies": {
+    "title": "Comment pouvez-vous contrôler les cookies?",
+    "content": "Vous avez le droit de décider d'accepter ou de rejeter les cookies. Vous pouvez exercer vos préférences en matière de cookies en cliquant sur les liens de désactivation appropriés fournis ci-dessous.",
+    "browser": {
+      "title": "Contrôles du navigateur",
+      "description": "La plupart des navigateurs web vous permettent de gérer vos préférences de cookies. Vous pouvez configurer votre navigateur pour refuser les cookies, ou supprimer certains cookies. Généralement, vous devriez également pouvoir gérer les technologies similaires de la même manière que vous gérez les cookies - en utilisant les préférences de votre navigateur."
+    },
+    "optOut": {
+      "title": "Désactivation de cookies spécifiques",
+      "analytics": "Pour désactiver Google Analytics, vous pouvez installer le module complémentaire de navigateur pour la désactivation de Google Analytics en visitant: https://tools.google.com/dlpage/gaoptout",
+      "advertising": "Pour plus d'informations sur les cookies de publicité comportementale en ligne et comment les désactiver, veuillez visiter www.youronlinechoices.eu (basé dans l'UE) ou www.aboutads.info/choices/ (basé aux États-Unis)"
+    }
+  },
+  "changes": {
+    "title": "Modifications de cette politique de cookies",
+    "content": "Nous pouvons mettre à jour cette politique de cookies de temps à autre afin de refléter, par exemple, des changements aux cookies que nous utilisons ou pour d'autres raisons opérationnelles, légales ou réglementaires. Veuillez donc revisiter régulièrement cette politique de cookies pour rester informé sur notre utilisation des cookies et des technologies connexes."
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "content": "Si vous avez des questions concernant notre utilisation des cookies ou d'autres technologies, veuillez nous contacter à:",
+    "email": "privacy@divo.com",
+    "phone": "+1 (800) 123-4567"
+  }
+}

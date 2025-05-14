@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "المواعيد",
+    "description": "إدارة مواعيدك الطبية القادمة والسابقة"
+  },
+  "header": {
+    "title": "مواعيدك",
+    "subtitle": "جدولة وإدارة زياراتك الصحية"
+  },
+  "tabs": {
+    "upcoming": "القادمة",
+    "past": "السابقة",
+    "pending": "بانتظار التأكيد",
+    "cancelled": "الملغاة"
+  },
+  "upcoming": {
+    "title": "المواعيد القادمة",
+    "empty": "لا توجد مواعيد قادمة",
+    "schedule": "جدولة موعد"
+  },
+  "past": {
+    "title": "المواعيد السابقة",
+    "empty": "لا توجد مواعيد سابقة",
+    "viewReport": "عرض التقرير"
+  },
+  "pending": {
+    "title": "المواعيد المعلقة",
+    "empty": "لا توجد مواعيد معلقة",
+    "awaitingConfirmation": "بانتظار التأكيد من مقدم الخدمة"
+  },
+  "cancelled": {
+    "title": "المواعيد الملغاة",
+    "empty": "لا توجد مواعيد ملغاة",
+    "reason": "السبب"
+  },
+  "appointmentCard": {
+    "with": "مع",
+    "at": "في",
+    "virtualVisit": "زيارة افتراضية",
+    "inPerson": "شخصي",
+    "status": {
+      "confirmed": "مؤكد",
+      "pending": "معلق",
+      "cancelled": "ملغى",
+      "completed": "مكتمل",
+      "missed": "فائت",
+      "rescheduled": "معاد جدولته"
+    },
+    "actions": {
+      "viewDetails": "عرض التفاصيل",
+      "cancel": "إلغاء",
+      "reschedule": "إعادة جدولة",
+      "checkIn": "تسجيل الوصول",
+      "joinCall": "الانضمام إلى مكالمة الفيديو",
+      "directions": "الحصول على الاتجاهات",
+      "addToCalendar": "إضافة إلى التقويم",
+      "leaveReview": "ترك تقييم",
+      "viewSummary": "عرض الملخص"
+    }
+  },
+  "details": {
+    "title": "تفاصيل الموعد",
+    "date": "التاريخ",
+    "time": "الوقت",
+    "duration": "المدة",
+    "provider": "مقدم الخدمة",
+    "location": "الموقع",
+    "visitType": "نوع الزيارة",
+    "reasonForVisit": "سبب الزيارة",
+    "notes": "ملاحظات",
+    "insurance": "التأمين",
+    "copay": "الدفع المشترك",
+    "documents": "الوثائق",
+    "prepInstructions": "تعليمات التحضير",
+    "contactInfo": "معلومات الاتصال",
+    "emergencyContact": "جهة اتصال للطوارئ"
+  },
+  "schedule": {
+    "title": "جدولة موعد",
+    "step1": "اختيار مقدم الخدمة",
+    "step2": "اختيار الخدمة",
+    "step3": "اختيار التاريخ والوقت",
+    "step4": "تأكيد التفاصيل",
+    "chooseProvider": "اختر مقدم خدمة",
+    "chooseService": "اختر خدمة",
+    "chooseDateTime": "اختر تاريخًا ووقتًا",
+    "confirmDetails": "تأكيد تفاصيلك",
+    "preferredTime": "الوقت المفضل",
+    "morning": "صباحًا",
+    "afternoon": "ظهرًا",
+    "evening": "مساءً",
+    "visitType": "نوع الزيارة",
+    "visitReason": "سبب الزيارة",
+    "insurance": "معلومات التأمين",
+    "additionalNotes": "ملاحظات إضافية لمقدم الخدمة",
+    "termsAgree": "أوافق على الشروط والسياسات",
+    "submit": "جدولة الموعد",
+    "back": "رجوع",
+    "next": "التالي"
+  },
+  "confirmation": {
+    "title": "تم تأكيد الموعد",
+    "details": "تمت جدولة موعدك",
+    "summary": "الملخص",
+    "addToCalendar": "إضافة إلى التقويم",
+    "receiveReminder": "ستتلقى تذكيرًا قبل موعدك بـ 24 ساعة",
+    "makeChanges": "هل تحتاج إلى إجراء تغييرات؟",
+    "contactUs": "اتصل بنا",
+    "viewAppointments": "عرض مواعيدي"
+  },
+  "cancel": {
+    "title": "إلغاء الموعد",
+    "warning": "هل أنت متأكد أنك تريد إلغاء هذا الموعد؟",
+    "reason": "سبب الإلغاء (اختياري)",
+    "policyNote": "يرجى ملاحظة سياسة الإلغاء لدينا: قد يتم فرض رسوم إلغاء على المواعيد الملغاة قبل أقل من 24 ساعة من الموعد.",
+    "confirm": "نعم، إلغاء الموعد",
+    "back": "لا، الاحتفاظ بالموعد"
+  },
+  "reschedule": {
+    "title": "إعادة جدولة الموعد",
+    "currentAppointment": "الموعد الحالي",
+    "selectNewDate": "اختر تاريخًا ووقتًا جديدًا",
+    "reason": "سبب إعادة الجدولة (اختياري)",
+    "policyNote": "يرجى الملاحظة: قد تتعرض لرسوم إعادة جدولة إذا تمت إعادة الجدولة قبل أقل من 24 ساعة من موعدك.",
+    "confirm": "تأكيد إعادة الجدولة",
+    "cancel": "إلغاء"
+  },
+  "filters": {
+    "search": "البحث عن المواعيد",
+    "dateRange": "النطاق الزمني",
+    "provider": "مقدم الخدمة",
+    "location": "الموقع",
+    "type": "نوع الموعد",
+    "status": "الحالة",
+    "apply": "تطبيق الفلاتر",
+    "clear": "مسح الفلاتر",
+    "sortBy": "ترتيب حسب",
+    "sortOptions": {
+      "dateAsc": "التاريخ (الأقدم أولاً)",
+      "dateDesc": "التاريخ (الأحدث أولاً)",
+      "providerAZ": "مقدم الخدمة (أ إلى ي)",
+      "providerZA": "مقدم الخدمة (ي إلى أ)"
+    }
+  }
+}

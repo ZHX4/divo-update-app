@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "التسجيل",
+    "description": "إنشاء حساب جديد على منصة ديفو للرعاية الصحية"
+  },
+  "header": {
+    "title": "إنشاء حساب",
+    "subtitle": "انضم إلى ديفو للوصول إلى خدمات الرعاية الصحية السلسة"
+  },
+  "form": {
+    "personalInfo": {
+      "title": "المعلومات الشخصية",
+      "firstName": {
+        "label": "الاسم الأول",
+        "placeholder": "أدخل اسمك الأول"
+      },
+      "lastName": {
+        "label": "اسم العائلة",
+        "placeholder": "أدخل اسم عائلتك"
+      },
+      "email": {
+        "label": "البريد الإلكتروني",
+        "placeholder": "أدخل بريدك الإلكتروني"
+      },
+      "phone": {
+        "label": "رقم الهاتف",
+        "placeholder": "أدخل رقم هاتفك"
+      },
+      "dateOfBirth": {
+        "label": "تاريخ الميلاد",
+        "placeholder": "اختر تاريخ ميلادك"
+      },
+      "gender": {
+        "label": "الجنس",
+        "options": {
+          "male": "ذكر",
+          "female": "أنثى",
+          "other": "آخر",
+          "preferNotToSay": "أفضل عدم القول"
+        }
+      }
+    },
+    "accountInfo": {
+      "title": "معلومات الحساب",
+      "password": {
+        "label": "كلمة المرور",
+        "placeholder": "أنشئ كلمة مرور"
+      },
+      "confirmPassword": {
+        "label": "تأكيد كلمة المرور",
+        "placeholder": "أعد إدخال كلمة المرور"
+      }
+    },
+    "termsAndConsent": {
+      "termsOfService": "أوافق على <link>شروط الخدمة</link> و<privacyLink>سياسة الخصوصية</privacyLink>",
+      "marketingConsent": "أود تلقي تحديثات ونصائح صحية عبر البريد الإلكتروني (اختياري)"
+    },
+    "submitButton": "إنشاء حساب",
+    "loading": "جارٍ إنشاء الحساب...",
+    "errors": {
+      "firstNameRequired": "الاسم الأول مطلوب",
+      "lastNameRequired": "اسم العائلة مطلوب",
+      "emailRequired": "البريد الإلكتروني مطلوب",
+      "validEmail": "يرجى إدخال بريد إلكتروني صالح",
+      "phoneRequired": "رقم الهاتف مطلوب",
+      "validPhone": "يرجى إدخال رقم هاتف صالح",
+      "dobRequired": "تاريخ الميلاد مطلوب",
+      "mustBe18": "يجب أن يكون عمرك 18 عامًا على الأقل",
+      "passwordRequired": "كلمة المرور مطلوبة",
+      "passwordMinLength": "يجب أن تتكون كلمة المرور من 8 أحرف على الأقل",
+      "passwordRequirements": "يجب أن تحتوي كلمة المرور على حرف كبير وحرف صغير ورقم ورمز خاص على الأقل",
+      "passwordsDoNotMatch": "كلمات المرور غير متطابقة",
+      "termsRequired": "يجب أن توافق على شروط الخدمة وسياسة الخصوصية",
+      "emailExists": "البريد الإلكتروني مستخدم بالفعل"
+    }
+  },
+  "socialSignup": {
+    "title": "أو التسجيل باستخدام",
+    "google": "متابعة باستخدام جوجل",
+    "apple": "متابعة باستخدام آبل",
+    "facebook": "متابعة باستخدام فيسبوك"
+  },
+  "login": {
+    "prompt": "لديك حساب بالفعل؟",
+    "link": "تسجيل الدخول"
+  },
+  "securityInfo": "معلوماتك آمنة ومشفرة. لن نشارك بياناتك أبدًا مع جهات خارجية دون موافقتك."
+}

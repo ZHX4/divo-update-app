@@ -1,0 +1,190 @@
+{
+  "meta": {
+    "title": "Book Appointment",
+    "description": "Schedule an appointment with healthcare providers on the Divo platform"
+  },
+  "header": {
+    "title": "Book an Appointment",
+    "subtitle": "Choose the right specialist and find a time that works for you"
+  },
+  "stepper": {
+    "step1": "Select Provider",
+    "step2": "Select Service",
+    "step3": "Select Date & Time",
+    "step4": "Confirm Booking"
+  },
+  "providerSelection": {
+    "title": "Choose a provider",
+    "search": {
+      "label": "Search for a provider",
+      "placeholder": "Search by name or specialty"
+    },
+    "filters": {
+      "specialty": {
+        "label": "Specialty",
+        "placeholder": "Choose specialty"
+      },
+      "location": {
+        "label": "Location",
+        "placeholder": "Choose location or area"
+      },
+      "insurance": {
+        "label": "Insurance",
+        "placeholder": "Choose insurance provider"
+      },
+      "availability": {
+        "label": "Availability",
+        "options": {
+          "anytime": "Anytime",
+          "today": "Today",
+          "tomorrow": "Tomorrow",
+          "thisWeek": "This Week",
+          "nextWeek": "Next Week"
+        }
+      },
+      "gender": {
+        "label": "Provider Gender",
+        "options": {
+          "any": "Any",
+          "male": "Male",
+          "female": "Female"
+        }
+      },
+      "language": {
+        "label": "Languages Spoken",
+        "placeholder": "Choose languages"
+      },
+      "applyButton": "Apply Filters",
+      "clearButton": "Clear Filters"
+    },
+    "providerCard": {
+      "reviews": "reviews",
+      "experience": "{{years}} years experience",
+      "newPatients": "Accepting new patients",
+      "notAccepting": "Not currently accepting new patients",
+      "virtual": "Virtual visits available",
+      "viewProfile": "View Profile",
+      "selectButton": "Select this provider"
+    },
+    "noResults": "No results match your search criteria. Please adjust your filters and try again."
+  },
+  "serviceSelection": {
+    "title": "Choose a service",
+    "visitType": {
+      "label": "Visit type",
+      "options": {
+        "inPerson": "In-person",
+        "virtual": "Virtual (video)"
+      }
+    },
+    "services": {
+      "title": "Available services",
+      "duration": "Duration: {{duration}} minutes",
+      "price": "Price: {{price}}",
+      "covered": "Covered by insurance",
+      "notCovered": "Not covered by insurance",
+      "selectButton": "Select"
+    },
+    "reasonForVisit": {
+      "label": "Reason for visit",
+      "placeholder": "Please briefly describe the reason for your visit"
+    },
+    "noServices": "No services available for this provider. Please select a different provider."
+  },
+  "dateTimeSelection": {
+    "title": "Choose date and time",
+    "calendar": {
+      "month": "Month",
+      "week": "Week",
+      "day": "Day",
+      "today": "Today",
+      "noAvailability": "No availability on this day"
+    },
+    "timeSlots": {
+      "morning": "Morning (8AM - 12PM)",
+      "afternoon": "Afternoon (12PM - 5PM)",
+      "evening": "Evening (5PM - 9PM)",
+      "selectTime": "Select a time",
+      "noTimesAvailable": "No times available. Please select a different day."
+    },
+    "timezone": "All times are in local time ({{timezone}})"
+  },
+  "confirmation": {
+    "title": "Confirm details",
+    "appointmentDetails": {
+      "title": "Appointment Details",
+      "provider": "Provider:",
+      "service": "Service:",
+      "type": "Visit type:",
+      "date": "Date:",
+      "time": "Time:",
+      "location": "Location:"
+    },
+    "patientDetails": {
+      "title": "Patient Details",
+      "name": "Name:",
+      "phone": "Phone:",
+      "email": "Email:",
+      "dateOfBirth": "Date of Birth:"
+    },
+    "insuranceDetails": {
+      "title": "Insurance Details",
+      "provider": "Insurance Provider:",
+      "policyNumber": "Policy Number:",
+      "groupNumber": "Group Number:",
+      "primaryInsured": "Primary Insured:",
+      "relationship": "Relationship to Primary Insured:",
+      "updateButton": "Update Insurance Information"
+    },
+    "additionalInfo": {
+      "title": "Additional Information",
+      "reason": "Reason for Visit:",
+      "notes": {
+        "label": "Additional Notes",
+        "placeholder": "Any additional information you want the provider to know"
+      }
+    },
+    "policies": {
+      "title": "Policies and Terms",
+      "cancellation": "Cancellation Policy: You may cancel your appointment for free up to 24 hours in advance. Late cancellations may incur a fee.",
+      "noShow": "No-Show Policy: A no-show fee may be applied if you fail to show up for your appointment.",
+      "telehealth": "Telehealth Consent: By agreeing to a virtual visit, you consent to the telehealth service terms.",
+      "consent": "I agree to these terms and conditions"
+    },
+    "submitButton": "Confirm Appointment",
+    "loading": "Confirming appointment...",
+    "errors": {
+      "consentRequired": "You must agree to the terms and conditions",
+      "genericError": "An error occurred while booking your appointment. Please try again."
+    }
+  },
+  "successPage": {
+    "title": "Appointment Confirmed!",
+    "message": "Your appointment has been successfully booked",
+    "details": {
+      "title": "Appointment Details",
+      "reference": "Reference Number:",
+      "provider": "Provider:",
+      "date": "Date:",
+      "time": "Time:",
+      "type": "Visit Type:"
+    },
+    "nextSteps": {
+      "title": "Next Steps",
+      "reminder": "You'll receive a reminder 24 hours before your appointment",
+      "preparation": "Prepare any questions or concerns you'd like to discuss",
+      "arrival": "For in-person visits: Please arrive 15 minutes before your appointment time",
+      "virtual": "For virtual visits: You can join the session 5 minutes before the start time"
+    },
+    "actions": {
+      "calendar": "Add to Calendar",
+      "viewAppointment": "View Appointment Details",
+      "dashboard": "Return to Dashboard"
+    }
+  },
+  "navigation": {
+    "back": "Back",
+    "next": "Next",
+    "cancel": "Cancel"
+  }
+}

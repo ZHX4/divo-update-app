@@ -1,0 +1,41 @@
+{
+  "meta": {
+    "title": "Connexion",
+    "description": "Connectez-vous à votre compte Divo pour accéder à notre plateforme de santé"
+  },
+  "header": {
+    "title": "Connectez-vous à votre compte",
+    "subtitle": "Bienvenue ! Veuillez saisir vos identifiants pour accéder à votre compte"
+  },
+  "form": {
+    "email": {
+      "label": "Adresse e-mail",
+      "placeholder": "Entrez votre adresse e-mail"
+    },
+    "password": {
+      "label": "Mot de passe",
+      "placeholder": "Entrez votre mot de passe"
+    },
+    "rememberMe": "Se souvenir de moi",
+    "forgotPassword": "Mot de passe oublié ?",
+    "submitButton": "Se connecter",
+    "loading": "Connexion en cours...",
+    "errors": {
+      "invalidCredentials": "Adresse e-mail ou mot de passe incorrect",
+      "emailRequired": "L'adresse e-mail est requise",
+      "validEmail": "Veuillez entrer une adresse e-mail valide",
+      "passwordRequired": "Le mot de passe est requis"
+    }
+  },
+  "socialLogin": {
+    "title": "Ou se connecter avec",
+    "google": "Continuer avec Google",
+    "apple": "Continuer avec Apple",
+    "facebook": "Continuer avec Facebook"
+  },
+  "signup": {
+    "prompt": "Vous n'avez pas de compte ?",
+    "link": "Créer un compte"
+  },
+  "securityInfo": "Nous utilisons un cryptage avancé pour protéger vos informations. Nous ne partagerons jamais vos données avec des tiers sans votre consentement."
+}

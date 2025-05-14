@@ -1,0 +1,18 @@
+# netlify.toml
+[build]
+  command = "npm run build"
+  publish = ".next"
+
+[build.environment]
+  NEXT_PUBLIC_API_URL = "https://api.divo.com"
+  NODE_VERSION = "18"
+
+# These redirect rules handle i18n paths correctly with Next.js
+[[redirects]]
+  from = "/*"
+  to = "/404"
+  status = 404
+
+# Handle trailing slashes
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

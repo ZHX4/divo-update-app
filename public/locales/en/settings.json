@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "title": "Settings",
+    "description": "Manage your account settings and preferences"
+  },
+  "header": {
+    "title": "Settings",
+    "subtitle": "Manage your account settings and preferences"
+  },
+  "tabs": {
+    "profile": "Profile",
+    "account": "Account",
+    "notifications": "Notifications",
+    "preferences": "Preferences",
+    "privacy": "Privacy & Security",
+    "connected": "Connected Accounts"
+  },
+  "profile": {
+    "title": "Profile Information",
+    "description": "Update your personal information and how others see you on the platform",
+    "photo": {
+      "label": "Profile Photo",
+      "upload": "Upload Photo",
+      "remove": "Remove Photo",
+      "help": "JPG, GIF or PNG. Max size 2MB."
+    },
+    "name": {
+      "label": "Full Name",
+      "placeholder": "Enter your full name"
+    },
+    "email": {
+      "label": "Email Address",
+      "placeholder": "Enter your email address"
+    },
+    "phone": {
+      "label": "Phone Number",
+      "placeholder": "Enter your phone number"
+    },
+    "dob": {
+      "label": "Date of Birth",
+      "placeholder": "MM/DD/YYYY"
+    },
+    "gender": {
+      "label": "Gender",
+      "male": "Male",
+      "female": "Female",
+      "nonBinary": "Non-binary",
+      "preferNotToSay": "Prefer not to say"
+    },
+    "address": {
+      "label": "Address",
+      "line1": "Address Line 1",
+      "line2": "Address Line 2",
+      "city": "City",
+      "state": "State/Province",
+      "zip": "Zip/Postal Code",
+      "country": "Country"
+    },
+    "bio": {
+      "label": "Bio",
+      "placeholder": "Tell us a bit about yourself"
+    },
+    "saveButton": "Save Changes",
+    "cancelButton": "Cancel"
+  },
+  "account": {
+    "title": "Account Settings",
+    "description": "Update your account settings and manage your login credentials",
+    "username": {
+      "label": "Username",
+      "placeholder": "Enter your username"
+    },
+    "changePassword": {
+      "title": "Change Password",
+      "current": "Current Password",
+      "new": "New Password",
+      "confirm": "Confirm New Password",
+      "button": "Update Password",
+      "requirements": "Password must be at least 8 characters and include a mix of letters, numbers, and symbols."
+    },
+    "twoFactor": {
+      "title": "Two-Factor Authentication",
+      "description": "Add an extra layer of security to your account",
+      "enable": "Enable 2FA",
+      "disable": "Disable 2FA",
+      "status": {
+        "enabled": "Enabled",
+        "disabled": "Disabled"
+      }
+    },
+    "deleteAccount": {
+      "title": "Delete Account",
+      "description": "Once you delete your account, there is no going back. Please be certain.",
+      "button": "Delete Account",
+      "confirm": "I understand that this action is irreversible"
+    }
+  },
+  "notifications": {
+    "title": "Notification Preferences",
+    "description": "Choose how and when you receive notifications",
+    "methods": {
+      "title": "Notification Methods",
+      "email": "Email",
+      "sms": "SMS/Text",
+      "push": "Push Notifications",
+      "inApp": "In-App Notifications"
+    },
+    "types": {
+      "title": "Notification Types",
+      "appointments": {
+        "label": "Appointment Reminders",
+        "description": "Receive reminders about upcoming appointments"
+      },
+      "messages": {
+        "label": "Messages",
+        "description": "Receive notifications when someone sends you a message"
+      },
+      "updates": {
+        "label": "Health Updates",
+        "description": "Receive updates about your health records or lab results"
+      },
+      "reminders": {
+        "label": "Medication Reminders",
+        "description": "Receive reminders to take your medications"
+      },
+      "news": {
+        "label": "News and Offers",
+        "description": "Receive news, tips, and special offers"
+      }
+    }
+  },
+  "preferences": {
+    "title": "Preferences",
+    "description": "Customize your app experience",
+    "language": {
+      "label": "Language",
+      "help": "Choose your preferred language for the application interface"
+    },
+    "theme": {
+      "label": "Theme",
+      "light": "Light",
+      "dark": "Dark",
+      "system": "System Default",
+      "help": "Choose the visual theme for the application"
+    },
+    "timezone": {
+      "label": "Time Zone",
+      "help": "Set your local time zone for accurate scheduling"
+    },
+    "dateFormat": {
+      "label": "Date Format",
+      "mdy": "MM/DD/YYYY",
+      "dmy": "DD/MM/YYYY",
+      "ymd": "YYYY/MM/DD"
+    },
+    "timeFormat": {
+      "label": "Time Format",
+      "12hour": "12-hour (AM/PM)",
+      "24hour": "24-hour"
+    },
+    "accessibility": {
+      "title": "Accessibility",
+      "highContrast": "High Contrast Mode",
+      "largeText": "Large Text",
+      "reduceMotion": "Reduce Motion",
+      "screenReader": "Screen Reader Optimization"
+    }
+  },
+  "privacy": {
+    "title": "Privacy & Security",
+    "description": "Manage your privacy settings and control your data",
+    "dataSharing": {
+      "title": "Data Sharing",
+      "researchConsent": {
+        "label": "Research Consent",
+        "description": "Allow anonymized data to be used for medical research"
+      },
+      "thirdParty": {
+        "label": "Third-Party Data Sharing",
+        "description": "Allow sharing data with trusted partners for improving services"
+      }
+    },
+    "activityLog": {
+      "title": "Account Activity",
+      "viewActivity": "View Activity Log",
+      "sessions": "Active Sessions",
+      "devices": "Registered Devices"
+    },
+    "gdpr": {
+      "title": "Data Rights",
+      "downloadData": "Download My Data",
+      "deleteData": "Request Data Deletion"
+    }
+  },
+  "connected": {
+    "title": "Connected Accounts",
+    "description": "Manage accounts you've connected to your Divo profile",
+    "google": "Google",
+    "facebook": "Facebook",
+    "apple": "Apple",
+    "connect": "Connect",
+    "disconnect": "Disconnect",
+    "connected": "Connected",
+    "notConnected": "Not Connected",
+    "addAccount": "Add Account"
+  },
+  "languages": {
+    "english": "English",
+    "arabic": "Arabic",
+    "french": "French",
+    "spanish": "Spanish",
+    "german": "German",
+    "chinese": "Chinese",
+    "japanese": "Japanese",
+    "korean": "Korean",
+    "russian": "Russian",
+    "portuguese": "Portuguese",
+    "hindi": "Hindi"
+  },
+  "buttons": {
+    "save": "Save Changes",
+    "cancel": "Cancel",
+    "reset": "Reset to Default"
+  },
+  "notifications": {
+    "saveSuccess": "Settings saved successfully",
+    "saveFailed": "Failed to save settings. Please try again.",
+    "passwordChanged": "Password changed successfully",
+    "passwordError": "Failed to change password. Please check your current password."
+  }
+}

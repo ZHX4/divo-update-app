@@ -1,0 +1,63 @@
+{
+    "header": {
+      "home": "الرئيسية",
+      "doctors": "الأطباء",
+      "appointments": "المواعيد",
+      "features": "الميزات",
+      "about": "من نحن",
+      "contact": "اتصل بنا",
+      "login": "تسجيل الدخول",
+      "register": "إنشاء حساب",
+      "settings": "الإعدادات",
+      "profile": "الملف الشخصي",
+      "logout": "تسجيل الخروج"
+    },
+    "footer": {
+      "rights": "جميع الحقوق محفوظة",
+      "terms": "شروط الخدمة",
+      "privacy": "سياسة الخصوصية",
+      "contact": "تواصل معنا"
+    },
+    "general": {
+      "loading": "جاري التحميل...",
+      "error": "حدث خطأ ما",
+      "search": "بحث",
+      "welcome": "مرحبًا بك في Divo",
+      "language": "اللغة",
+      "languageSelection": "اختيار اللغة",
+      "selectLanguage": "اختر اللغة"
+    },
+    "buttons": {
+      "submit": "إرسال",
+      "cancel": "إلغاء",
+      "save": "حفظ",
+      "edit": "تعديل",
+      "delete": "حذف",
+      "back": "السابق",
+      "next": "التالي"
+    },
+    "auth": {
+      "email": "البريد الإلكتروني",
+      "password": "كلمة المرور",
+      "login": "تسجيل الدخول",
+      "register": "إنشاء حساب",
+      "forgotPassword": "هل نسيت كلمة المرور؟",
+      "alreadyHaveAccount": "لديك حساب بالفعل؟",
+      "dontHaveAccount": "ليس لديك حساب؟"
+    },
+    "settings": {
+      "title": "الإعدادات",
+      "theme": "المظهر",
+      "language": "اللغة",
+      "notifications": "الإشعارات",
+      "profile": "الملف الشخصي",
+      "security": "الأمان"
+    },
+    "navigation": {
+      "home": "الرئيسية",
+      "dashboard": "لوحة التحكم",
+      "appointments": "المواعيد",
+      "settings": "الإعدادات",
+      "profile": "الملف الشخصي"
+    }
+  }

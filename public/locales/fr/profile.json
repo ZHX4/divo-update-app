@@ -1,0 +1,456 @@
+{
+  "meta": {
+    "title": "Profil",
+    "description": "Consultez et modifiez vos informations de profil sur Divo"
+  },
+  "header": {
+    "title": "Votre profil",
+    "subtitle": "Gérez vos informations personnelles et médicales"
+  },
+  "tabs": {
+    "personal": "Informations personnelles",
+    "medical": "Informations médicales",
+    "insurance": "Assurance",
+    "preferences": "Préférences",
+    "providers": "Prestataires préférés"
+  },
+  "personalInfo": {
+    "title": "Informations personnelles",
+    "photo": {
+      "label": "Photo de profil",
+      "upload": "Télécharger une photo",
+      "remove": "Supprimer la photo"
+    },
+    "name": {
+      "first": {
+        "label": "Prénom",
+        "placeholder": "Entrez votre prénom"
+      },
+      "middle": {
+        "label": "Deuxième prénom",
+        "placeholder": "Entrez votre deuxième prénom (facultatif)"
+      },
+      "last": {
+        "label": "Nom",
+        "placeholder": "Entrez votre nom"
+      }
+    },
+    "contact": {
+      "email": {
+        "label": "Adresse e-mail",
+        "placeholder": "Entrez votre adresse e-mail"
+      },
+      "phone": {
+        "label": "Numéro de téléphone",
+        "placeholder": "Entrez votre numéro de téléphone"
+      }
+    },
+    "personal": {
+      "dob": {
+        "label": "Date de naissance",
+        "placeholder": "Choisissez votre date de naissance"
+      },
+      "gender": {
+        "label": "Genre",
+        "options": {
+          "male": "Homme",
+          "female": "Femme",
+          "other": "Autre",
+          "preferNotToSay": "Préfère ne pas répondre"
+        }
+      },
+      "maritalStatus": {
+        "label": "Statut matrimonial",
+        "options": {
+          "single": "Célibataire",
+          "married": "Marié(e)",
+          "divorced": "Divorcé(e)",
+          "widowed": "Veuf/veuve",
+          "other": "Autre"
+        }
+      }
+    },
+    "address": {
+      "title": "Adresse",
+      "street1": {
+        "label": "Ligne 1",
+        "placeholder": "Adresse"
+      },
+      "street2": {
+        "label": "Ligne 2",
+        "placeholder": "Appartement, suite, unité, etc."
+      },
+      "city": {
+        "label": "Ville",
+        "placeholder": "Entrez la ville"
+      },
+      "state": {
+        "label": "État/Province",
+        "placeholder": "Choisissez l'état/province"
+      },
+      "zipCode": {
+        "label": "Code postal",
+        "placeholder": "Entrez le code postal"
+      },
+      "country": {
+        "label": "Pays",
+        "placeholder": "Choisissez le pays"
+      }
+    },
+    "emergency": {
+      "title": "Contact d'urgence",
+      "name": {
+        "label": "Nom",
+        "placeholder": "Nom du contact d'urgence"
+      },
+      "relationship": {
+        "label": "Relation",
+        "placeholder": "Relation avec vous"
+      },
+      "phone": {
+        "label": "Numéro de téléphone",
+        "placeholder": "Numéro de téléphone d'urgence"
+      }
+    },
+    "saveButton": "Enregistrer les modifications",
+    "cancelButton": "Annuler",
+    "successMessage": "Vos informations personnelles ont été mises à jour avec succès",
+    "errorMessage": "Une erreur s'est produite lors de l'enregistrement de vos informations. Veuillez réessayer."
+  },
+  "medicalInfo": {
+    "title": "Informations médicales",
+    "allergies": {
+      "title": "Allergies",
+      "label": "Avez-vous des allergies ?",
+      "options": {
+        "yes": "Oui",
+        "no": "Non"
+      },
+      "list": {
+        "label": "Allergie",
+        "add": "Ajouter une allergie",
+        "placeholder": "Entrez l'allergie",
+        "reaction": "Réaction",
+        "severity": {
+          "label": "Gravité",
+          "options": {
+            "mild": "Légère",
+            "moderate": "Modérée",
+            "severe": "Sévère"
+          }
+        },
+        "remove": "Supprimer"
+      }
+    },
+    "medications": {
+      "title": "Médicaments actuels",
+      "label": "Prenez-vous actuellement des médicaments ?",
+      "options": {
+        "yes": "Oui",
+        "no": "Non"
+      },
+      "list": {
+        "label": "Médicament",
+        "add": "Ajouter un médicament",
+        "placeholder": "Nom du médicament",
+        "dosage": "Dosage",
+        "frequency": "Fréquence",
+        "reason": "Raison de l'utilisation",
+        "remove": "Supprimer"
+      }
+    },
+    "conditions": {
+      "title": "Conditions médicales",
+      "label": "Avez-vous été diagnostiqué avec des conditions médicales ?",
+      "options": {
+        "yes": "Oui",
+        "no": "Non"
+      },
+      "list": {
+        "label": "Condition",
+        "add": "Ajouter une condition",
+        "placeholder": "Entrez la condition",
+        "diagnosedDate": "Date de diagnostic",
+        "currentStatus": {
+          "label": "Statut actuel",
+          "options": {
+            "active": "Active",
+            "managed": "Gérée",
+            "resolved": "Résolue"
+          }
+        },
+        "remove": "Supprimer"
+      }
+    },
+    "surgeries": {
+      "title": "Interventions chirurgicales",
+      "label": "Avez-vous subi des interventions chirurgicales ?",
+      "options": {
+        "yes": "Oui",
+        "no": "Non"
+      },
+      "list": {
+        "label": "Intervention chirurgicale",
+        "add": "Ajouter une intervention",
+        "placeholder": "Nom de l'intervention",
+        "date": "Date de l'intervention",
+        "hospital": "Hôpital",
+        "reason": "Raison de l'intervention",
+        "remove": "Supprimer"
+      }
+    },
+    "familyHistory": {
+      "title": "Antécédents familiaux",
+      "list": {
+        "label": "Condition",
+        "add": "Ajouter un antécédent familial",
+        "placeholder": "Condition médicale",
+        "relation": "Relation",
+        "remove": "Supprimer"
+      }
+    },
+    "lifestyle": {
+      "title": "Facteurs de style de vie",
+      "smoking": {
+        "label": "Tabagisme",
+        "options": {
+          "never": "Non-fumeur",
+          "former": "Ancien fumeur",
+          "current": "Fumeur actuel",
+          "occasional": "Fumeur occasionnel"
+        }
+      },
+      "alcohol": {
+        "label": "Consommation d'alcool",
+        "options": {
+          "never": "Ne bois pas",
+          "occasional": "Occasionnelle",
+          "moderate": "Modérée",
+          "heavy": "Importante"
+        }
+      },
+      "exercise": {
+        "label": "Exercice physique",
+        "options": {
+          "sedentary": "Sédentaire",
+          "light": "Léger",
+          "moderate": "Modéré",
+          "active": "Actif",
+          "veryActive": "Très actif"
+        }
+      }
+    },
+    "saveButton": "Enregistrer les informations médicales",
+    "cancelButton": "Annuler",
+    "successMessage": "Vos informations médicales ont été mises à jour avec succès",
+    "errorMessage": "Une erreur s'est produite lors de l'enregistrement de vos informations médicales. Veuillez réessayer."
+  },
+  "insuranceInfo": {
+    "title": "Informations d'assurance",
+    "primary": {
+      "title": "Assurance primaire",
+      "provider": {
+        "label": "Assureur",
+        "placeholder": "Choisissez l'assureur"
+      },
+      "policyNumber": {
+        "label": "Numéro de police",
+        "placeholder": "Entrez le numéro de police"
+      },
+      "groupNumber": {
+        "label": "Numéro de groupe",
+        "placeholder": "Entrez le numéro de groupe (facultatif)"
+      },
+      "policyHolder": {
+        "label": "Titulaire de la police",
+        "self": "Moi-même",
+        "other": "Autre personne"
+      },
+      "holderInfo": {
+        "name": {
+          "label": "Nom du titulaire",
+          "placeholder": "Entrez le nom complet"
+        },
+        "relationship": {
+          "label": "Relation avec le titulaire",
+          "placeholder": "Choisissez la relation",
+          "options": {
+            "spouse": "Conjoint(e)",
+            "parent": "Parent",
+            "child": "Enfant",
+            "other": "Autre"
+          }
+        },
+        "dob": {
+          "label": "Date de naissance du titulaire",
+          "placeholder": "Choisissez la date"
+        }
+      },
+      "uploadCard": {
+        "label": "Télécharger une image de la carte d'assurance",
+        "front": "Recto",
+        "back": "Verso",
+        "drag": "Glissez-déposez le fichier ici, ou cliquez pour parcourir"
+      }
+    },
+    "secondary": {
+      "title": "Assurance secondaire (facultatif)",
+      "hasSecondary": {
+        "label": "Avez-vous une assurance secondaire ?",
+        "yes": "Oui",
+        "no": "Non"
+      },
+      "info": "Mêmes informations que l'assurance primaire ci-dessus"
+    },
+    "verification": {
+      "title": "Vérification de l'assurance",
+      "status": {
+        "pending": "En attente",
+        "verified": "Vérifiée",
+        "failed": "Échec de la vérification",
+        "notSubmitted": "Non soumise"
+      },
+      "instructions": "Nous pouvons vous contacter pour des informations supplémentaires si nous rencontrons des problèmes pour vérifier votre couverture d'assurance."
+    },
+    "saveButton": "Enregistrer les informations d'assurance",
+    "cancelButton": "Annuler",
+    "successMessage": "Vos informations d'assurance ont été mises à jour avec succès",
+    "errorMessage": "Une erreur s'est produite lors de l'enregistrement de vos informations d'assurance. Veuillez réessayer."
+  },
+  "preferences": {
+    "title": "Préférences du compte",
+    "communications": {
+      "title": "Préférences de communication",
+      "reminders": {
+        "label": "Rappels de rendez-vous",
+        "email": "E-mail",
+        "sms": "SMS",
+        "both": "Les deux",
+        "none": "Pas de rappels"
+      },
+      "notifications": {
+        "label": "Notifications",
+        "options": {
+          "appointments": "Changements de rendez-vous",
+          "messaging": "Messages des prestataires",
+          "results": "Nouveaux résultats de tests",
+          "prescriptions": "Mises à jour des ordonnances",
+          "newsletters": "Bulletins d'information et mises à jour de santé"
+        }
+      },
+      "timing": {
+        "label": "Délai de rappel",
+        "options": {
+          "1day": "1 jour avant",
+          "2days": "2 jours avant",
+          "1week": "1 semaine avant",
+          "custom": "Personnalisé"
+        }
+      }
+    },
+    "accessibility": {
+      "title": "Préférences d'accessibilité",
+      "fontSize": {
+        "label": "Taille de la police",
+        "options": {
+          "default": "Par défaut",
+          "large": "Grande",
+          "larger": "Très grande"
+        }
+      },
+      "contrast": {
+        "label": "Contraste",
+        "options": {
+          "default": "Par défaut",
+          "high": "Élevé"
+        }
+      },
+      "animations": {
+        "label": "Animations",
+        "options": {
+          "enabled": "Activées",
+          "reduced": "Réduites"
+        }
+      },
+      "screenReader": {
+        "label": "Optimisation pour lecteur d'écran",
+        "options": {
+          "enabled": "Activée",
+          "disabled": "Désactivée"
+        }
+      }
+    },
+    "language": {
+      "title": "Préférences linguistiques",
+      "preferred": {
+        "label": "Langue préférée",
+        "options": {
+          "en": "Anglais",
+          "ar": "Arabe",
+          "fr": "Français",
+          "es": "Espagnol"
+        }
+      },
+      "needInterpreter": {
+        "label": "Avez-vous besoin d'un interprète pour les rendez-vous ?",
+        "yes": "Oui",
+        "no": "Non"
+      }
+    },
+    "privacy": {
+      "title": "Options de confidentialité",
+      "shareData": {
+        "label": "Partage de données pour la recherche médicale",
+        "description": "Autoriser l'utilisation de vos données de santé anonymisées pour aider à améliorer les soins et la recherche médicale.",
+        "yes": "Oui, j'autorise",
+        "no": "Non, ne pas partager"
+      },
+      "shareDirectories": {
+        "label": "Annuaires et répertoires",
+        "description": "Permettre aux autres patients de vous trouver dans le répertoire des patients (pour les groupes uniquement).",
+        "yes": "Oui, j'autorise",
+        "no": "Non, gardez ma confidentialité"
+      }
+    },
+    "saveButton": "Enregistrer les préférences",
+    "cancelButton": "Annuler",
+    "successMessage": "Vos préférences ont été mises à jour avec succès",
+    "errorMessage": "Une erreur s'est produite lors de l'enregistrement de vos préférences. Veuillez réessayer."
+  },
+  "preferredProviders": {
+    "title": "Prestataires préférés",
+    "description": "Gérez les prestataires de soins de santé avec lesquels vous préférez travailler.",
+    "primaryCare": {
+      "title": "Médecin traitant",
+      "select": "Choisir un médecin traitant",
+      "search": "Rechercher des prestataires",
+      "noPrimary": "Aucun médecin traitant défini",
+      "current": "Médecin traitant actuel"
+    },
+    "specialists": {
+      "title": "Spécialistes",
+      "add": "Ajouter un spécialiste",
+      "search": "Rechercher un spécialiste",
+      "noSpecialists": "Vous n'avez ajouté aucun spécialiste",
+      "specialty": "Spécialité",
+      "remove": "Supprimer"
+    },
+    "providerCard": {
+      "contactInfo": "Coordonnées",
+      "viewProfile": "Voir le profil",
+      "lastVisit": "Dernière visite",
+      "upcomingAppointment": "Prochain rendez-vous"
+    },
+    "saveButton": "Enregistrer les prestataires préférés",
+    "cancelButton": "Annuler",
+    "successMessage": "Vos prestataires préférés ont été mis à jour avec succès",
+    "errorMessage": "Une erreur s'est produite lors de l'enregistrement de vos prestataires préférés. Veuillez réessayer."
+  },
+  "completionStatus": {
+    "title": "Complétion du profil",
+    "complete": "Complet",
+    "incomplete": "Incomplet",
+    "percentComplete": "{{percent}}% complété",
+    "completeProfile": "Complétez votre profil pour améliorer votre expérience"
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "meta": {
+    "title": "البحث عن الأطباء",
+    "description": "ابحث عن مقدمي الرعاية الصحية حسب التخصص والموقع والتوفر"
+  },
+  "header": {
+    "title": "اعثر على الطبيب المناسب لك",
+    "subtitle": "ابحث في شبكتنا من متخصصي الرعاية الصحية المؤهلين"
+  },
+  "search": {
+    "placeholder": "البحث بالاسم أو التخصص أو الحالة",
+    "location": {
+      "label": "الموقع",
+      "placeholder": "المدينة أو الولاية أو الرمز البريدي"
+    },
+    "specialty": {
+      "label": "التخصص",
+      "placeholder": "اختر التخصص",
+      "options": {
+        "all": "جميع التخصصات",
+        "cardiology": "أمراض القلب",
+        "dermatology": "الجلدية",
+        "endocrinology": "الغدد الصماء",
+        "familyMedicine": "طب الأسرة",
+        "gastroenterology": "أمراض الجهاز الهضمي",
+        "neurology": "طب الأعصاب",
+        "obstetrics": "التوليد وأمراض النساء",
+        "ophthalmology": "طب العيون",
+        "orthopedics": "جراحة العظام",
+        "pediatrics": "طب الأطفال",
+        "psychiatry": "الطب النفسي",
+        "urology": "المسالك البولية"
+      }
+    },
+    "insurance": {
+      "label": "التأمين",
+      "placeholder": "اختر التأمين"
+    },
+    "availability": {
+      "label": "التوفر",
+      "today": "اليوم",
+      "tomorrow": "غدًا",
+      "thisWeek": "هذا الأسبوع",
+      "nextWeek": "الأسبوع القادم",
+      "anytime": "أي وقت"
+    },
+    "distance": {
+      "label": "المسافة",
+      "options": {
+        "5": "ضمن 5 أميال",
+        "10": "ضمن 10 أميال",
+        "15": "ضمن 15 ميلاً",
+        "25": "ضمن 25 ميلاً",
+        "50": "ضمن 50 ميلاً"
+      }
+    },
+    "gender": {
+      "label": "جنس الطبيب",
+      "any": "أي",
+      "male": "ذكر",
+      "female": "أنثى",
+      "nonBinary": "غير ثنائي",
+      "notSpecified": "أفضل عدم القول"
+    },
+    "language": {
+      "label": "اللغات المتحدثة",
+      "placeholder": "اختر اللغات"
+    },
+    "rating": {
+      "label": "الحد الأدنى للتقييم",
+      "any": "أي تقييم"
+    },
+    "button": "البحث عن الأطباء",
+    "clear": "مسح الفلاتر",
+    "advancedFilters": "فلاتر متقدمة",
+    "lessFilters": "فلاتر أقل"
+  },
+  "results": {
+    "found": "تم العثور على {{count}} طبيب",
+    "noResults": "لا يوجد أطباء يتطابقون مع معايير البحث الخاصة بك. حاول ضبط الفلاتر الخاصة بك.",
+    "sortBy": {
+      "label": "ترتيب حسب",
+      "relevance": "الصلة",
+      "rating": "التقييم",
+      "distance": "المسافة",
+      "availability": "أقرب توفر"
+    }
+  },
+  "doctorCard": {
+    "yearsExperience": "{{years}} سنوات خبرة",
+    "newPatients": "يقبل مرضى جدد",
+    "notAcceptingPatients": "لا يقبل مرضى جدد",
+    "viewProfile": "عرض الملف الشخصي",
+    "bookAppointment": "حجز موعد",
+    "telehealth": "الرعاية الصحية عن بعد متاحة",
+    "inPerson": "زيارات شخصية",
+    "distance": "على بعد {{distance}} ميل"
+  },
+  "pagination": {
+    "previous": "السابق",
+    "next": "التالي",
+    "page": "الصفحة {{current}} من {{total}}"
+  },
+  "filters": {
+    "title": "الفلاتر",
+    "apply": "تطبيق الفلاتر",
+    "reset": "إعادة تعيين"
+  }
+}

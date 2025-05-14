@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Contact Us",
+    "description": "Get in touch with the Divo healthcare team for support or inquiries"
+  },
+  "header": {
+    "title": "Contact Us",
+    "subtitle": "We're here to help with any questions or feedback"
+  },
+  "form": {
+    "name": {
+      "label": "Full Name",
+      "placeholder": "Enter your full name"
+    },
+    "email": {
+      "label": "Email Address",
+      "placeholder": "Enter your email address"
+    },
+    "phone": {
+      "label": "Phone Number (Optional)",
+      "placeholder": "Enter your phone number"
+    },
+    "subject": {
+      "label": "Subject",
+      "placeholder": "What is your message about?"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Please provide details about your inquiry"
+    },
+    "submitButton": "Send Message",
+    "sending": "Sending...",
+    "success": "Your message has been sent! We'll get back to you soon.",
+    "error": "There was an error sending your message. Please try again."
+  },
+  "contactInfo": {
+    "title": "Contact Information",
+    "office": "Main Office",
+    "support": "Support",
+    "sales": "Partnerships",
+    "press": "Media Inquiries",
+    "hours": "Hours of Operation",
+    "weekdays": "Monday - Friday: 9am - 5pm",
+    "weekends": "Saturday - Sunday: Closed"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "questions": [
+      {
+        "question": "How do I schedule an appointment?",
+        "answer": "You can schedule an appointment by logging into your account, navigating to the 'Appointments' section, and clicking on 'Schedule New Appointment'."
+      },
+      {
+        "question": "How do I reset my password?",
+        "answer": "To reset your password, click on the 'Forgot Password' link on the login page and follow the instructions sent to your email."
+      },
+      {
+        "question": "Are my medical records secure?",
+        "answer": "Yes, we use industry-leading encryption and security practices to ensure your medical records and personal information are always protected."
+      },
+      {
+        "question": "How can I find a specific doctor?",
+        "answer": "You can find doctors by using the search function on our 'Find Doctors' page. You can filter by specialty, location, and availability."
+      }
+    ],
+    "moreQuestions": "Have more questions?",
+    "helpCenter": "Visit our Help Center"
+  }
+}

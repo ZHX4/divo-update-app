@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "خريطة الموقع",
+    "subtitle": "ابحث عن جميع الصفحات على موقعنا"
+  },
+  "categories": {
+    "main": "التنقل الرئيسي",
+    "account": "الحساب",
+    "appointments": "المواعيد",
+    "legal": "قانوني ومساعدة"
+  },
+  "links": {
+    "home": "الرئيسية",
+    "about": "من نحن",
+    "contact": "اتصل بنا",
+    "findDoctors": "البحث عن الأطباء",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "dashboard": "لوحة التحكم",
+    "settings": "الإعدادات",
+    "bookAppointment": "حجز موعد",
+    "myAppointments": "مواعيدي",
+    "medicalRecords": "السجلات الطبية",
+    "terms": "شروط الخدمة",
+    "privacy": "سياسة الخصوصية",
+    "cookie": "سياسة ملفات الارتباط",
+    "disclaimer": "إخلاء المسؤولية",
+    "help": "المساعدة والدعم"
+  }
+}

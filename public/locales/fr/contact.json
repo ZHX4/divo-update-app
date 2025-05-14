@@ -1,0 +1,69 @@
+{
+  "meta": {
+    "title": "Contactez-nous",
+    "description": "Entrez en contact avec l'équipe de soins de santé Divo pour obtenir de l'aide ou des renseignements"
+  },
+  "header": {
+    "title": "Contactez-nous",
+    "subtitle": "Nous sommes là pour répondre à vos questions et recevoir vos commentaires"
+  },
+  "form": {
+    "name": {
+      "label": "Nom complet",
+      "placeholder": "Entrez votre nom complet"
+    },
+    "email": {
+      "label": "Adresse e-mail",
+      "placeholder": "Entrez votre adresse e-mail"
+    },
+    "phone": {
+      "label": "Numéro de téléphone (Facultatif)",
+      "placeholder": "Entrez votre numéro de téléphone"
+    },
+    "subject": {
+      "label": "Sujet",
+      "placeholder": "Quel est l'objet de votre message?"
+    },
+    "message": {
+      "label": "Message",
+      "placeholder": "Veuillez fournir des détails sur votre demande"
+    },
+    "submitButton": "Envoyer le message",
+    "sending": "Envoi en cours...",
+    "success": "Votre message a été envoyé! Nous vous répondrons bientôt.",
+    "error": "Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer."
+  },
+  "contactInfo": {
+    "title": "Informations de contact",
+    "office": "Bureau principal",
+    "support": "Support",
+    "sales": "Partenariats",
+    "press": "Demandes des médias",
+    "hours": "Heures d'ouverture",
+    "weekdays": "Lundi - Vendredi: 9h - 17h",
+    "weekends": "Samedi - Dimanche: Fermé"
+  },
+  "faq": {
+    "title": "Questions fréquemment posées",
+    "questions": [
+      {
+        "question": "Comment puis-je prendre rendez-vous?",
+        "answer": "Vous pouvez prendre rendez-vous en vous connectant à votre compte, en accédant à la section 'Rendez-vous' et en cliquant sur 'Planifier un nouveau rendez-vous'."
+      },
+      {
+        "question": "Comment puis-je réinitialiser mon mot de passe?",
+        "answer": "Pour réinitialiser votre mot de passe, cliquez sur le lien 'Mot de passe oublié' sur la page de connexion et suivez les instructions envoyées à votre adresse e-mail."
+      },
+      {
+        "question": "Mes dossiers médicaux sont-ils sécurisés?",
+        "answer": "Oui, nous utilisons un chiffrement de pointe et des pratiques de sécurité pour garantir que vos dossiers médicaux et informations personnelles sont toujours protégés."
+      },
+      {
+        "question": "Comment puis-je trouver un médecin spécifique?",
+        "answer": "Vous pouvez trouver des médecins en utilisant la fonction de recherche sur notre page 'Trouver des médecins'. Vous pouvez filtrer par spécialité, emplacement et disponibilité."
+      }
+    ],
+    "moreQuestions": "Vous avez d'autres questions?",
+    "helpCenter": "Visitez notre centre d'aide"
+  }
+}

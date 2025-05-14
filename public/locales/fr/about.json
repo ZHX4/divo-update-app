@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "À propos de nous",
+    "description": "Découvrez la plateforme de santé Divo, notre mission et notre équipe"
+  },
+  "header": {
+    "title": "À propos de Divo",
+    "subtitle": "Révolutionner votre accès aux soins de santé"
+  },
+  "mission": {
+    "title": "Notre Mission",
+    "description": "Chez Divo, nous nous engageons à rendre les soins de santé plus accessibles, transparents et personnalisés. Nous croyons que chacun mérite un accès facile à des services de santé de qualité, quel que soit son lieu de résidence."
+  },
+  "story": {
+    "title": "Notre Histoire",
+    "description": "Fondée en 2020, Divo a commencé comme une petite startup avec une grande vision. Après avoir connu personnellement les difficultés de navigation dans le système de santé, nos fondateurs ont entrepris de créer une plateforme qui simplifie le parcours de soins pour tous les acteurs concernés.",
+    "timeline": [
+      {
+        "year": "2020",
+        "title": "Le Début",
+        "description": "Divo a été créée avec la vision de transformer l'accès aux soins de santé"
+      },
+      {
+        "year": "2021",
+        "title": "Croissance Initiale",
+        "description": "Expansion de notre réseau pour inclure plus de 100 prestataires de soins"
+      },
+      {
+        "year": "2022",
+        "title": "Avancées Technologiques",
+        "description": "Lancement de notre vérificateur de symptômes alimenté par l'IA et de notre plateforme de télémédecine"
+      },
+      {
+        "year": "2023",
+        "title": "Expansion Mondiale",
+        "description": "Extension de nos services à plusieurs pays et langues"
+      }
+    ]
+  },
+  "team": {
+    "title": "Notre Équipe",
+    "description": "Nous sommes un groupe diversifié de professionnels de la santé, de technologues et d'innovateurs passionnés travaillant ensemble pour transformer les soins de santé.",
+    "members": [
+      {
+        "name": "Dr. Sophia Chen",
+        "role": "Directrice Médicale",
+        "bio": "Avec plus de 15 ans d'expérience clinique, Dr. Chen veille à ce que tous les aspects médicaux de notre plateforme répondent aux normes les plus élevées."
+      },
+      {
+        "name": "Michael Rodriguez",
+        "role": "Directeur Technique",
+        "bio": "Michael apporte plus de 20 ans de leadership technologique à Divo, ayant précédemment dirigé le développement dans des entreprises majeures de technologie de santé."
+      },
+      {
+        "name": "Amara Okafor",
+        "role": "Directrice des Opérations",
+        "bio": "L'expérience d'Amara en administration de soins de santé aide à garantir que Divo fonctionne de manière fluide et efficace."
+      }
+    ]
+  },
+  "values": {
+    "title": "Nos Valeurs",
+    "list": [
+      {
+        "title": "Accessibilité",
+        "description": "Nous croyons que les soins de santé devraient être accessibles à tous, partout"
+      },
+      {
+        "title": "Transparence",
+        "description": "Nous maintenons une communication claire sur les traitements, les coûts et les procédures"
+      },
+      {
+        "title": "Innovation",
+        "description": "Nous explorons constamment de nouvelles technologies pour améliorer la prestation des soins de santé"
+      },
+      {
+        "title": "Empathie",
+        "description": "Nous abordons chaque aspect de notre service avec compréhension et compassion"
+      }
+    ]
+  },
+  "impact": {
+    "title": "Notre Impact",
+    "stats": [
+      {
+        "value": "500 000+",
+        "label": "Patients Servis"
+      },
+      {
+        "value": "5 000+",
+        "label": "Prestataires de Santé"
+      },
+      {
+        "value": "50+",
+        "label": "Villes"
+      },
+      {
+        "value": "98%",
+        "label": "Satisfaction des Patients"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contactez-nous",
+    "description": "Vous avez des questions ou des commentaires? Nous serions ravis de vous entendre.",
+    "button": "Nous Contacter"
+  }
+}

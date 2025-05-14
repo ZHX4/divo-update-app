@@ -1,0 +1,231 @@
+{
+  "meta": {
+    "title": "Paramètres",
+    "description": "Gérez les paramètres et préférences de votre compte"
+  },
+  "header": {
+    "title": "Paramètres",
+    "subtitle": "Gérez les paramètres et préférences de votre compte"
+  },
+  "tabs": {
+    "profile": "Profil",
+    "account": "Compte",
+    "notifications": "Notifications",
+    "preferences": "Préférences",
+    "privacy": "Confidentialité et sécurité",
+    "connected": "Comptes connectés"
+  },
+  "profile": {
+    "title": "Informations du profil",
+    "description": "Mettez à jour vos informations personnelles et comment les autres vous voient sur la plateforme",
+    "photo": {
+      "label": "Photo de profil",
+      "upload": "Télécharger une photo",
+      "remove": "Supprimer la photo",
+      "help": "JPG, GIF ou PNG. Taille max 2Mo."
+    },
+    "name": {
+      "label": "Nom complet",
+      "placeholder": "Entrez votre nom complet"
+    },
+    "email": {
+      "label": "Adresse e-mail",
+      "placeholder": "Entrez votre adresse e-mail"
+    },
+    "phone": {
+      "label": "Numéro de téléphone",
+      "placeholder": "Entrez votre numéro de téléphone"
+    },
+    "dob": {
+      "label": "Date de naissance",
+      "placeholder": "JJ/MM/AAAA"
+    },
+    "gender": {
+      "label": "Genre",
+      "male": "Homme",
+      "female": "Femme",
+      "nonBinary": "Non-binaire",
+      "preferNotToSay": "Préfère ne pas dire"
+    },
+    "address": {
+      "label": "Adresse",
+      "line1": "Adresse ligne 1",
+      "line2": "Adresse ligne 2",
+      "city": "Ville",
+      "state": "État/Province",
+      "zip": "Code postal",
+      "country": "Pays"
+    },
+    "bio": {
+      "label": "Biographie",
+      "placeholder": "Parlez-nous un peu de vous"
+    },
+    "saveButton": "Enregistrer les modifications",
+    "cancelButton": "Annuler"
+  },
+  "account": {
+    "title": "Paramètres du compte",
+    "description": "Mettez à jour les paramètres de votre compte et gérez vos identifiants de connexion",
+    "username": {
+      "label": "Nom d'utilisateur",
+      "placeholder": "Entrez votre nom d'utilisateur"
+    },
+    "changePassword": {
+      "title": "Changer de mot de passe",
+      "current": "Mot de passe actuel",
+      "new": "Nouveau mot de passe",
+      "confirm": "Confirmer le nouveau mot de passe",
+      "button": "Mettre à jour le mot de passe",
+      "requirements": "Le mot de passe doit comporter au moins 8 caractères et inclure un mélange de lettres, chiffres et symboles."
+    },
+    "twoFactor": {
+      "title": "Authentification à deux facteurs",
+      "description": "Ajoutez une couche de sécurité supplémentaire à votre compte",
+      "enable": "Activer l'A2F",
+      "disable": "Désactiver l'A2F",
+      "status": {
+        "enabled": "Activée",
+        "disabled": "Désactivée"
+      }
+    },
+    "deleteAccount": {
+      "title": "Supprimer le compte",
+      "description": "Une fois que vous supprimez votre compte, il n'y a pas de retour en arrière. Veuillez être certain.",
+      "button": "Supprimer le compte",
+      "confirm": "Je comprends que cette action est irréversible"
+    }
+  },
+  "notifications": {
+    "title": "Préférences de notification",
+    "description": "Choisissez comment et quand vous recevez des notifications",
+    "methods": {
+      "title": "Méthodes de notification",
+      "email": "E-mail",
+      "sms": "SMS/Texte",
+      "push": "Notifications push",
+      "inApp": "Notifications dans l'application"
+    },
+    "types": {
+      "title": "Types de notifications",
+      "appointments": {
+        "label": "Rappels de rendez-vous",
+        "description": "Recevez des rappels sur les rendez-vous à venir"
+      },
+      "messages": {
+        "label": "Messages",
+        "description": "Recevez des notifications lorsque quelqu'un vous envoie un message"
+      },
+      "updates": {
+        "label": "Mises à jour de santé",
+        "description": "Recevez des mises à jour concernant vos dossiers médicaux ou résultats de laboratoire"
+      },
+      "reminders": {
+        "label": "Rappels de médicaments",
+        "description": "Recevez des rappels pour prendre vos médicaments"
+      },
+      "news": {
+        "label": "Actualités et offres",
+        "description": "Recevez des actualités, conseils et offres spéciales"
+      }
+    }
+  },
+  "preferences": {
+    "title": "Préférences",
+    "description": "Personnalisez votre expérience de l'application",
+    "language": {
+      "label": "Langue",
+      "help": "Choisissez votre langue préférée pour l'interface de l'application"
+    },
+    "theme": {
+      "label": "Thème",
+      "light": "Clair",
+      "dark": "Sombre",
+      "system": "Défaut du système",
+      "help": "Choisissez le thème visuel de l'application"
+    },
+    "timezone": {
+      "label": "Fuseau horaire",
+      "help": "Définissez votre fuseau horaire local pour une planification précise"
+    },
+    "dateFormat": {
+      "label": "Format de date",
+      "mdy": "MM/JJ/AAAA",
+      "dmy": "JJ/MM/AAAA",
+      "ymd": "AAAA/MM/JJ"
+    },
+    "timeFormat": {
+      "label": "Format de l'heure",
+      "12hour": "12 heures (AM/PM)",
+      "24hour": "24 heures"
+    },
+    "accessibility": {
+      "title": "Accessibilité",
+      "highContrast": "Mode contraste élevé",
+      "largeText": "Grand texte",
+      "reduceMotion": "Réduire les animations",
+      "screenReader": "Optimisation pour lecteur d'écran"
+    }
+  },
+  "privacy": {
+    "title": "Confidentialité et sécurité",
+    "description": "Gérez vos paramètres de confidentialité et contrôlez vos données",
+    "dataSharing": {
+      "title": "Partage de données",
+      "researchConsent": {
+        "label": "Consentement à la recherche",
+        "description": "Autoriser l'utilisation de données anonymisées à des fins de recherche médicale"
+      },
+      "thirdParty": {
+        "label": "Partage de données avec des tiers",
+        "description": "Autoriser le partage de données avec des partenaires de confiance pour améliorer les services"
+      }
+    },
+    "activityLog": {
+      "title": "Activité du compte",
+      "viewActivity": "Voir le journal d'activité",
+      "sessions": "Sessions actives",
+      "devices": "Appareils enregistrés"
+    },
+    "gdpr": {
+      "title": "Droits sur les données",
+      "downloadData": "Télécharger mes données",
+      "deleteData": "Demander la suppression des données"
+    }
+  },
+  "connected": {
+    "title": "Comptes connectés",
+    "description": "Gérez les comptes que vous avez connectés à votre profil Divo",
+    "google": "Google",
+    "facebook": "Facebook",
+    "apple": "Apple",
+    "connect": "Connecter",
+    "disconnect": "Déconnecter",
+    "connected": "Connecté",
+    "notConnected": "Non connecté",
+    "addAccount": "Ajouter un compte"
+  },
+  "languages": {
+    "english": "Anglais",
+    "arabic": "Arabe",
+    "french": "Français",
+    "spanish": "Espagnol",
+    "german": "Allemand",
+    "chinese": "Chinois",
+    "japanese": "Japonais",
+    "korean": "Coréen",
+    "russian": "Russe",
+    "portuguese": "Portugais",
+    "hindi": "Hindi"
+  },
+  "buttons": {
+    "save": "Enregistrer les modifications",
+    "cancel": "Annuler",
+    "reset": "Réinitialiser par défaut"
+  },
+  "notifications": {
+    "saveSuccess": "Paramètres enregistrés avec succès",
+    "saveFailed": "Échec de l'enregistrement des paramètres. Veuillez réessayer.",
+    "passwordChanged": "Mot de passe modifié avec succès",
+    "passwordError": "Échec de la modification du mot de passe. Veuillez vérifier votre mot de passe actuel."
+  }
+}

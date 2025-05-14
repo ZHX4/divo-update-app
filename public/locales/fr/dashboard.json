@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Tableau de bord",
+    "description": "Votre tableau de bord de santé personnel sur Divo"
+  },
+  "header": {
+    "welcome": "Bon retour",
+    "subtitle": "Voici un aperçu de votre santé"
+  },
+  "stats": {
+    "upcomingAppointments": "Rendez-vous à venir",
+    "totalVisits": "Visites totales",
+    "recentPrescriptions": "Prescriptions récentes",
+    "healthScore": "Score de santé"
+  },
+  "quickActions": {
+    "title": "Actions rapides",
+    "findDoctor": "Trouver un médecin",
+    "scheduleAppointment": "Planifier un rendez-vous",
+    "viewRecords": "Voir les dossiers médicaux",
+    "messageDoctor": "Envoyer un message au médecin"
+  },
+  "appointments": {
+    "title": "Rendez-vous à venir",
+    "viewAll": "Voir tout",
+    "noAppointments": "Pas de rendez-vous à venir",
+    "schedule": "Planifier un nouveau rendez-vous"
+  },
+  "recentActivity": {
+    "title": "Activité récente",
+    "viewAll": "Voir tout",
+    "noActivity": "Aucune activité récente à afficher"
+  },
+  "healthMetrics": {
+    "title": "Mesures de santé",
+    "bloodPressure": "Tension artérielle",
+    "heartRate": "Fréquence cardiaque",
+    "bloodGlucose": "Glucose sanguin",
+    "weight": "Poids",
+    "lastUpdated": "Dernière mise à jour"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "viewAll": "Voir tout",
+    "markRead": "Marquer tout comme lu",
+    "noNotifications": "Pas de nouvelles notifications"
+  }
+}

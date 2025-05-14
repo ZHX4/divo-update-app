@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "title": "Privacy Policy",
+    "description": "Learn about how Divo collects, uses, and protects your personal information"
+  },
+  "header": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated",
+    "date": "March 10, 2024"
+  },
+  "introduction": {
+    "title": "Introduction",
+    "content": "At Divo, we take your privacy seriously. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our platform. Please read this privacy policy carefully. By continuing to use our service, you acknowledge that you have read and understood this policy."
+  },
+  "informationCollection": {
+    "title": "Information We Collect",
+    "personalData": {
+      "title": "Personal Data",
+      "content": "We collect personal information that you voluntarily provide to us when you register on our platform, express interest in obtaining information about us or our services, or otherwise contact us.",
+      "items": [
+        "Contact information (name, email address, phone number)",
+        "Demographic information (date of birth, gender)",
+        "Health information (medical history, conditions, medications)",
+        "Insurance information",
+        "Payment details (when applicable)"
+      ]
+    },
+    "automaticData": {
+      "title": "Automatically Collected Data",
+      "content": "When you access our platform, we may automatically collect certain information about your device and usage, including:",
+      "items": [
+        "IP address and device information",
+        "Browser type and settings",
+        "Operating system",
+        "Usage patterns and interaction with the platform",
+        "Time and date of your visits"
+      ]
+    },
+    "cookies": {
+      "title": "Cookies and Similar Technologies",
+      "content": "We use cookies and similar tracking technologies to track activity on our platform and hold certain information. You can instruct your browser to refuse all cookies or to indicate when a cookie is being sent."
+    }
+  },
+  "informationUse": {
+    "title": "How We Use Your Information",
+    "content": "We may use the information we collect from you for various purposes, including:",
+    "purposes": [
+      {
+        "title": "Provide and maintain our services",
+        "description": "Process appointments, manage your account, and deliver the functionality of our platform"
+      },
+      {
+        "title": "Improve and personalize your experience",
+        "description": "Analyze usage data to enhance and customize our services to your preferences"
+      },
+      {
+        "title": "Communication",
+        "description": "Contact you regarding your account, appointments, or responding to your inquiries"
+      },
+      {
+        "title": "Security",
+        "description": "Monitor and protect our platform, services, and users from fraudulent or illegal activity"
+      },
+      {
+        "title": "Legal compliance",
+        "description": "Comply with applicable laws, legal processes, and respond to lawful requests"
+      }
+    ]
+  },
+  "informationSharing": {
+    "title": "Information Sharing and Disclosure",
+    "content": "We may share or disclose your information in the following situations:",
+    "situations": [
+      {
+        "title": "Healthcare Providers",
+        "description": "We share your information with healthcare providers to facilitate medical appointments and services"
+      },
+      {
+        "title": "Service Providers",
+        "description": "We may employ third-party companies to facilitate our service, provide service on our behalf, or assist us in analyzing how our service is used"
+      },
+      {
+        "title": "Legal Requirements",
+        "description": "We may disclose your information where required by law, governmental request, or to protect our rights"
+      },
+      {
+        "title": "Business Transfers",
+        "description": "In connection with a merger, acquisition, or sale of assets, your information may be transferred as a business asset"
+      }
+    ]
+  },
+  "dataSecurityAndStorage": {
+    "title": "Data Security and Storage",
+    "content": "We use administrative, technical, and physical security measures to protect your personal information. While we strive to use commercially acceptable means to protect your information, no method of transmission over the Internet or electronic storage is 100% secure."
+  },
+  "dataRetention": {
+    "title": "Data Retention",
+    "content": "We will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies."
+  },
+  "yourRights": {
+    "title": "Your Privacy Rights",
+    "content": "Depending on your location, you may have the following rights regarding your personal information:",
+    "rights": [
+      "Access and receive a copy of your personal data",
+      "Rectify or update your personal data",
+      "Request deletion of your personal data",
+      "Object to the processing of your personal data",
+      "Data portability",
+      "Withdraw consent"
+    ],
+    "request": "To exercise these rights, please contact us using the details provided in the 'Contact Us' section."
+  },
+  "childrenPrivacy": {
+    "title": "Children's Privacy",
+    "content": "Our platform is not intended for children under the age of 13. We do not knowingly collect personally identifiable information from children under 13. If you are a parent or guardian and you are aware that your child has provided us with personal data, please contact us."
+  },
+  "thirdPartyLinks": {
+    "title": "Third-Party Links",
+    "content": "Our platform may contain links to third-party websites or services that are not owned or controlled by Divo. We have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services."
+  },
+  "policyChanges": {
+    "title": "Changes to This Privacy Policy",
+    "content": "We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page and updating the 'Last updated' date."
+  },
+  "contactUs": {
+    "title": "Contact Us",
+    "content": "If you have questions or concerns about this Privacy Policy or our practices, please contact us at:",
+    "email": "privacy@divo.com",
+    "phone": "+1 (800) 123-4567",
+    "address": "123 Privacy Lane, Securityville, CA 94123, USA"
+  }
+}

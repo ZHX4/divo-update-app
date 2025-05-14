@@ -1,0 +1,145 @@
+{
+  "meta": {
+    "title": "Rendez-vous",
+    "description": "Gérez vos rendez-vous médicaux à venir et passés"
+  },
+  "header": {
+    "title": "Vos rendez-vous",
+    "subtitle": "Planifiez et gérez vos visites médicales"
+  },
+  "tabs": {
+    "upcoming": "À venir",
+    "past": "Passés",
+    "pending": "En attente de confirmation",
+    "cancelled": "Annulés"
+  },
+  "upcoming": {
+    "title": "Rendez-vous à venir",
+    "empty": "Pas de rendez-vous à venir",
+    "schedule": "Planifier un rendez-vous"
+  },
+  "past": {
+    "title": "Rendez-vous passés",
+    "empty": "Pas de rendez-vous passés",
+    "viewReport": "Voir le rapport"
+  },
+  "pending": {
+    "title": "Rendez-vous en attente",
+    "empty": "Pas de rendez-vous en attente",
+    "awaitingConfirmation": "En attente de confirmation du prestataire"
+  },
+  "cancelled": {
+    "title": "Rendez-vous annulés",
+    "empty": "Pas de rendez-vous annulés",
+    "reason": "Raison"
+  },
+  "appointmentCard": {
+    "with": "avec",
+    "at": "à",
+    "virtualVisit": "Visite virtuelle",
+    "inPerson": "En personne",
+    "status": {
+      "confirmed": "Confirmé",
+      "pending": "En attente",
+      "cancelled": "Annulé",
+      "completed": "Terminé",
+      "missed": "Manqué",
+      "rescheduled": "Reporté"
+    },
+    "actions": {
+      "viewDetails": "Voir les détails",
+      "cancel": "Annuler",
+      "reschedule": "Reporter",
+      "checkIn": "S'enregistrer",
+      "joinCall": "Rejoindre l'appel vidéo",
+      "directions": "Obtenir l'itinéraire",
+      "addToCalendar": "Ajouter au calendrier",
+      "leaveReview": "Laisser un avis",
+      "viewSummary": "Voir le résumé"
+    }
+  },
+  "details": {
+    "title": "Détails du rendez-vous",
+    "date": "Date",
+    "time": "Heure",
+    "duration": "Durée",
+    "provider": "Prestataire",
+    "location": "Lieu",
+    "visitType": "Type de visite",
+    "reasonForVisit": "Motif de la visite",
+    "notes": "Notes",
+    "insurance": "Assurance",
+    "copay": "Quote-part",
+    "documents": "Documents",
+    "prepInstructions": "Instructions de préparation",
+    "contactInfo": "Coordonnées",
+    "emergencyContact": "Contact d'urgence"
+  },
+  "schedule": {
+    "title": "Planifier un rendez-vous",
+    "step1": "Sélectionner un prestataire",
+    "step2": "Sélectionner un service",
+    "step3": "Sélectionner la date et l'heure",
+    "step4": "Confirmer les détails",
+    "chooseProvider": "Choisir un prestataire",
+    "chooseService": "Choisir un service",
+    "chooseDateTime": "Choisir une date et une heure",
+    "confirmDetails": "Confirmer vos détails",
+    "preferredTime": "Horaire préféré",
+    "morning": "Matin",
+    "afternoon": "Après-midi",
+    "evening": "Soir",
+    "visitType": "Type de visite",
+    "visitReason": "Motif de la visite",
+    "insurance": "Informations d'assurance",
+    "additionalNotes": "Notes supplémentaires pour le prestataire",
+    "termsAgree": "J'accepte les conditions et politiques",
+    "submit": "Planifier le rendez-vous",
+    "back": "Retour",
+    "next": "Suivant"
+  },
+  "confirmation": {
+    "title": "Rendez-vous confirmé",
+    "details": "Votre rendez-vous a été planifié",
+    "summary": "Résumé",
+    "addToCalendar": "Ajouter au calendrier",
+    "receiveReminder": "Vous recevrez un rappel 24 heures avant votre rendez-vous",
+    "makeChanges": "Besoin de faire des changements ?",
+    "contactUs": "Contactez-nous",
+    "viewAppointments": "Voir mes rendez-vous"
+  },
+  "cancel": {
+    "title": "Annuler le rendez-vous",
+    "warning": "Êtes-vous sûr de vouloir annuler ce rendez-vous ?",
+    "reason": "Motif de l'annulation (facultatif)",
+    "policyNote": "Veuillez noter notre politique d'annulation : les rendez-vous annulés moins de 24 heures à l'avance peuvent entraîner des frais d'annulation.",
+    "confirm": "Oui, annuler le rendez-vous",
+    "back": "Non, garder le rendez-vous"
+  },
+  "reschedule": {
+    "title": "Reporter le rendez-vous",
+    "currentAppointment": "Rendez-vous actuel",
+    "selectNewDate": "Sélectionner une nouvelle date et heure",
+    "reason": "Motif du report (facultatif)",
+    "policyNote": "Veuillez noter : le report moins de 24 heures avant votre rendez-vous peut entraîner des frais.",
+    "confirm": "Confirmer le report",
+    "cancel": "Annuler"
+  },
+  "filters": {
+    "search": "Rechercher des rendez-vous",
+    "dateRange": "Plage de dates",
+    "provider": "Prestataire",
+    "location": "Lieu",
+    "type": "Type de rendez-vous",
+    "status": "Statut",
+    "apply": "Appliquer les filtres",
+    "clear": "Effacer les filtres",
+    "sortBy": "Trier par",
+    "sortOptions": {
+      "dateAsc": "Date (plus ancienne d'abord)",
+      "dateDesc": "Date (plus récente d'abord)",
+      "providerAZ": "Prestataire (A à Z)",
+      "providerZA": "Prestataire (Z à A)"
+    }
+  }
+}

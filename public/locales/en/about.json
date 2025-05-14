@@ -1,0 +1,108 @@
+{
+  "meta": {
+    "title": "About Us",
+    "description": "Learn about the Divo healthcare platform, our mission, and our team"
+  },
+  "header": {
+    "title": "About Divo",
+    "subtitle": "Revolutionizing the way you access healthcare"
+  },
+  "mission": {
+    "title": "Our Mission",
+    "description": "At Divo, we're committed to making healthcare more accessible, transparent, and personalized. We believe that everyone deserves easy access to quality healthcare services, regardless of where they live."
+  },
+  "story": {
+    "title": "Our Story",
+    "description": "Founded in 2020, Divo began as a small startup with a big vision. After experiencing the difficulties of navigating the healthcare system firsthand, our founders set out to create a platform that simplifies the healthcare journey for everyone involved.",
+    "timeline": [
+      {
+        "year": "2020",
+        "title": "The Beginning",
+        "description": "Divo was established with the vision of transforming healthcare access"
+      },
+      {
+        "year": "2021",
+        "title": "Initial Growth",
+        "description": "Expanded our network to include over 100 healthcare providers"
+      },
+      {
+        "year": "2022",
+        "title": "Technological Advancements",
+        "description": "Launched our AI-powered symptom checker and telemedicine platform"
+      },
+      {
+        "year": "2023",
+        "title": "Global Expansion",
+        "description": "Extended our services to multiple countries and languages"
+      }
+    ]
+  },
+  "team": {
+    "title": "Our Team",
+    "description": "We're a diverse group of healthcare professionals, technologists, and passionate innovators working together to transform healthcare.",
+    "members": [
+      {
+        "name": "Dr. Sophia Chen",
+        "role": "Chief Medical Officer",
+        "bio": "With over 15 years of clinical experience, Dr. Chen ensures all medical aspects of our platform meet the highest standards."
+      },
+      {
+        "name": "Michael Rodriguez",
+        "role": "Chief Technology Officer",
+        "bio": "Michael brings 20+ years of tech leadership to Divo, previously leading development at major health tech companies."
+      },
+      {
+        "name": "Amara Okafor",
+        "role": "Chief Operating Officer",
+        "bio": "Amara's background in healthcare administration helps ensure Divo runs smoothly and efficiently."
+      }
+    ]
+  },
+  "values": {
+    "title": "Our Values",
+    "list": [
+      {
+        "title": "Accessibility",
+        "description": "We believe healthcare should be accessible to everyone, everywhere"
+      },
+      {
+        "title": "Transparency",
+        "description": "We maintain clear communication about treatments, costs, and processes"
+      },
+      {
+        "title": "Innovation",
+        "description": "We constantly explore new technologies to improve healthcare delivery"
+      },
+      {
+        "title": "Empathy",
+        "description": "We approach every aspect of our service with understanding and compassion"
+      }
+    ]
+  },
+  "impact": {
+    "title": "Our Impact",
+    "stats": [
+      {
+        "value": "500,000+",
+        "label": "Patients Served"
+      },
+      {
+        "value": "5,000+",
+        "label": "Healthcare Providers"
+      },
+      {
+        "value": "50+",
+        "label": "Cities"
+      },
+      {
+        "value": "98%",
+        "label": "Patient Satisfaction"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Have questions or feedback? We'd love to hear from you.",
+    "button": "Contact Us"
+  }
+}

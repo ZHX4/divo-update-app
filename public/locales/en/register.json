@@ -1,0 +1,88 @@
+{
+  "meta": {
+    "title": "Register",
+    "description": "Create a new account on the Divo healthcare platform"
+  },
+  "header": {
+    "title": "Create an account",
+    "subtitle": "Join Divo to access seamless healthcare services"
+  },
+  "form": {
+    "personalInfo": {
+      "title": "Personal Information",
+      "firstName": {
+        "label": "First name",
+        "placeholder": "Enter your first name"
+      },
+      "lastName": {
+        "label": "Last name",
+        "placeholder": "Enter your last name"
+      },
+      "email": {
+        "label": "Email address",
+        "placeholder": "Enter your email address"
+      },
+      "phone": {
+        "label": "Phone number",
+        "placeholder": "Enter your phone number"
+      },
+      "dateOfBirth": {
+        "label": "Date of birth",
+        "placeholder": "Select your date of birth"
+      },
+      "gender": {
+        "label": "Gender",
+        "options": {
+          "male": "Male",
+          "female": "Female",
+          "other": "Other",
+          "preferNotToSay": "Prefer not to say"
+        }
+      }
+    },
+    "accountInfo": {
+      "title": "Account Information",
+      "password": {
+        "label": "Password",
+        "placeholder": "Create a password"
+      },
+      "confirmPassword": {
+        "label": "Confirm password",
+        "placeholder": "Re-enter your password"
+      }
+    },
+    "termsAndConsent": {
+      "termsOfService": "I agree to the <link>Terms of Service</link> and <privacyLink>Privacy Policy</privacyLink>",
+      "marketingConsent": "I would like to receive updates and health tips via email (optional)"
+    },
+    "submitButton": "Create Account",
+    "loading": "Creating account...",
+    "errors": {
+      "firstNameRequired": "First name is required",
+      "lastNameRequired": "Last name is required",
+      "emailRequired": "Email is required",
+      "validEmail": "Please enter a valid email",
+      "phoneRequired": "Phone number is required",
+      "validPhone": "Please enter a valid phone number",
+      "dobRequired": "Date of birth is required",
+      "mustBe18": "You must be at least 18 years old",
+      "passwordRequired": "Password is required",
+      "passwordMinLength": "Password must be at least 8 characters long",
+      "passwordRequirements": "Password must contain at least one uppercase letter, one lowercase letter, one number, and one special character",
+      "passwordsDoNotMatch": "Passwords do not match",
+      "termsRequired": "You must agree to the Terms of Service and Privacy Policy",
+      "emailExists": "Email is already in use"
+    }
+  },
+  "socialSignup": {
+    "title": "Or sign up with",
+    "google": "Continue with Google",
+    "apple": "Continue with Apple",
+    "facebook": "Continue with Facebook"
+  },
+  "login": {
+    "prompt": "Already have an account?",
+    "link": "Log in"
+  },
+  "securityInfo": "Your information is secure and encrypted. We will never share your data with third parties without your consent."
+}

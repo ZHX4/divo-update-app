@@ -1,0 +1,61 @@
+{
+  "meta": {
+    "title": "Disclaimer",
+    "description": "Legal disclaimer for the Divo healthcare platform"
+  },
+  "header": {
+    "title": "Disclaimer",
+    "lastUpdated": "Last updated",
+    "date": "February 28, 2024"
+  },
+  "sections": {
+    "introduction": {
+      "title": "Introduction",
+      "content": "The information provided by Divo Healthcare ('we', 'us', or 'our') on our website and mobile application (the 'Service') is for general informational purposes only. All information on the Service is provided in good faith, however we make no representation or warranty of any kind, express or implied, regarding the accuracy, adequacy, validity, reliability, availability, or completeness of any information on the Service."
+    },
+    "notMedicalAdvice": {
+      "title": "Not Medical Advice",
+      "content": "The content provided through our Service is not intended to be a substitute for professional medical advice, diagnosis, or treatment. Always seek the advice of your physician or other qualified health provider with any questions you may have regarding a medical condition. Never disregard professional medical advice or delay in seeking it because of something you have read or accessed through our Service.",
+      "emergencies": "If you think you may have a medical emergency, call your doctor, go to the emergency department, or call emergency services immediately. Reliance on any information provided by our Service is solely at your own risk."
+    },
+    "contentAccuracy": {
+      "title": "Content Accuracy",
+      "content": "While we strive to provide accurate and up-to-date information, our Service may contain inaccuracies or typographical errors. We reserve the right to correct any errors, inaccuracies, or omissions, and to change or update information at any time without prior notice.",
+      "userResponsibility": "It is your responsibility to verify all information before relying on it. The use of our Service is at your sole risk."
+    },
+    "externalLinks": {
+      "title": "External Links",
+      "content": "Our Service may contain links to external websites that are not provided or maintained by or in any way affiliated with us. Please note that we do not guarantee the accuracy, relevance, timeliness, or completeness of any information on these external websites.",
+      "thirdPartyContent": "We do not control, and are not responsible for, the content, privacy practices, or reliability of any third-party websites, services, or resources to which links or access are provided through our Service."
+    },
+    "telehealth": {
+      "title": "Telehealth Limitations",
+      "content": "Telehealth services provided through our platform are subject to the limitations of technology. Technical problems or equipment failures may result in delays in medical evaluation or treatment. Telehealth may not be appropriate for all health conditions, and in-person consultation may be necessary.",
+      "notAllConditions": "Not all medical conditions can be properly diagnosed or treated via telehealth. Healthcare providers will use their professional judgment to determine whether telehealth is appropriate for your needs."
+    },
+    "healthRecords": {
+      "title": "Health Records",
+      "content": "While we implement security measures to protect your health information, no system is completely secure. We cannot guarantee the security of your personal information transmitted through our Service.",
+      "accuracy": "We rely on the accuracy of information provided by users, healthcare providers, and third parties. We are not responsible for inaccuracies in your health records resulting from incorrect information provided to us."
+    },
+    "professionalCredentials": {
+      "title": "Professional Credentials",
+      "content": "We make reasonable efforts to verify the credentials and qualifications of healthcare providers listed on our platform. However, we do not guarantee the accuracy of all credentials, qualifications, or information provided by healthcare providers.",
+      "selection": "The selection of a healthcare provider is your decision. We recommend conducting your own research before selecting a provider."
+    },
+    "limitations": {
+      "title": "Limitation of Liability",
+      "content": "In no event shall Divo Healthcare, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from (i) your access to or use of or inability to access or use the Service; (ii) any conduct or content of any third party on the Service; (iii) any content obtained from the Service; and (iv) unauthorized access, use or alteration of your transmissions or content, whether based on warranty, contract, tort (including negligence) or any other legal theory, whether or not we have been informed of the possibility of such damage."
+    },
+    "changes": {
+      "title": "Changes to this Disclaimer",
+      "content": "We may update our Disclaimer from time to time. We will notify you of any changes by posting the new Disclaimer on this page. You are advised to review this Disclaimer periodically for any changes."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "content": "If you have any questions about this Disclaimer, please contact us at:",
+    "email": "legal@divo.com",
+    "phone": "+1 (800) 123-4567"
+  }
+}

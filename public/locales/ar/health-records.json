@@ -1,0 +1,143 @@
+{
+  "meta": {
+    "title": "السجلات الصحية",
+    "description": "عرض وإدارة سجلاتك الطبية وتاريخك الصحي"
+  },
+  "header": {
+    "title": "السجلات الصحية",
+    "subtitle": "عرض وإدارة معلوماتك الطبية"
+  },
+  "overview": {
+    "title": "نظرة عامة على الصحة",
+    "lastUpdated": "آخر تحديث",
+    "viewAll": "عرض الكل",
+    "details": "عرض التفاصيل"
+  },
+  "vitals": {
+    "title": "العلامات الحيوية",
+    "bloodPressure": "ضغط الدم",
+    "heartRate": "معدل ضربات القلب",
+    "temperature": "درجة الحرارة",
+    "respiratoryRate": "معدل التنفس",
+    "oxygenSaturation": "تشبع الأكسجين",
+    "weight": "الوزن",
+    "height": "الطول",
+    "bmi": "مؤشر كتلة الجسم",
+    "lastChecked": "آخر فحص",
+    "units": {
+      "mmHg": "مم زئبق",
+      "bpm": "نبضة/دقيقة",
+      "celsius": "°م",
+      "fahrenheit": "°ف",
+      "rpm": "نفس/دقيقة",
+      "percentage": "%",
+      "kg": "كجم",
+      "lb": "رطل",
+      "cm": "سم",
+      "in": "بوصة"
+    }
+  },
+  "conditions": {
+    "title": "الحالات الطبية",
+    "active": "نشطة",
+    "resolved": "تم حلها",
+    "diagnosed": "تم التشخيص",
+    "noConditions": "لا توجد حالات طبية مسجلة",
+    "addCondition": "إضافة حالة"
+  },
+  "medications": {
+    "title": "الأدوية",
+    "current": "الحالية",
+    "past": "السابقة",
+    "prescribed": "موصوفة",
+    "dosage": "الجرعة",
+    "frequency": "التكرار",
+    "startDate": "تاريخ البدء",
+    "endDate": "تاريخ الانتهاء",
+    "refills": "إعادة التعبئة",
+    "noMedications": "لا توجد أدوية مسجلة",
+    "addMedication": "إضافة دواء"
+  },
+  "allergies": {
+    "title": "الحساسية",
+    "severity": "الشدة",
+    "reaction": "رد الفعل",
+    "diagnosed": "تم التشخيص",
+    "noAllergies": "لا توجد حساسية مسجلة",
+    "addAllergy": "إضافة حساسية",
+    "severityLevels": {
+      "mild": "خفيفة",
+      "moderate": "متوسطة",
+      "severe": "شديدة",
+      "unknown": "غير معروفة"
+    }
+  },
+  "immunizations": {
+    "title": "التطعيمات",
+    "vaccine": "اللقاح",
+    "date": "التاريخ",
+    "provider": "مقدم الخدمة",
+    "nextDue": "الموعد القادم",
+    "noImmunizations": "لا توجد تطعيمات مسجلة",
+    "addImmunization": "إضافة تطعيم"
+  },
+  "documents": {
+    "title": "الوثائق الطبية",
+    "type": "النوع",
+    "date": "التاريخ",
+    "provider": "مقدم الخدمة",
+    "description": "الوصف",
+    "view": "عرض",
+    "download": "تنزيل",
+    "noDocuments": "لا توجد وثائق مرفوعة",
+    "uploadDocument": "رفع وثيقة",
+    "types": {
+      "labResults": "نتائج المختبر",
+      "imaging": "التصوير",
+      "consultation": "ملاحظات الاستشارة",
+      "discharge": "ملخص الخروج",
+      "prescription": "الوصفة الطبية",
+      "other": "أخرى"
+    }
+  },
+  "visits": {
+    "title": "الزيارات الأخيرة",
+    "date": "التاريخ",
+    "provider": "مقدم الخدمة",
+    "reason": "السبب",
+    "location": "الموقع",
+    "summary": "الملخص",
+    "noVisits": "لا توجد زيارات حديثة مسجلة"
+  },
+  "familyHistory": {
+    "title": "التاريخ العائلي",
+    "relation": "صلة القرابة",
+    "condition": "الحالة",
+    "age": "عمر الظهور",
+    "notes": "ملاحظات",
+    "noHistory": "لا يوجد تاريخ عائلي مسجل",
+    "addHistory": "إضافة تاريخ عائلي"
+  },
+  "sharing": {
+    "title": "مشاركة السجلات",
+    "description": "إدارة من يمكنه الوصول إلى سجلاتك الصحية",
+    "currentProviders": "مقدمو الخدمة الحاليون مع إمكانية الوصول",
+    "shareWith": "مشاركة مع مقدم خدمة",
+    "searchProvider": "البحث عن مقدم خدمة",
+    "permissions": "الأذونات",
+    "viewOnly": "عرض فقط",
+    "fullAccess": "وصول كامل",
+    "timeLimit": "الحد الزمني",
+    "permanent": "دائم",
+    "temporary": "مؤقت",
+    "endDate": "تاريخ الانتهاء",
+    "share": "مشاركة",
+    "revoke": "إلغاء الوصول"
+  },
+  "buttons": {
+    "exportRecords": "تصدير السجلات",
+    "printSummary": "طباعة الملخص",
+    "addNew": "إضافة جديد",
+    "viewAll": "عرض الكل"
+  }
+}

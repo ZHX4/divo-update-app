@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "Plan du site",
+    "subtitle": "Trouvez toutes les pages de notre site"
+  },
+  "categories": {
+    "main": "Navigation principale",
+    "account": "Compte",
+    "appointments": "Rendez-vous",
+    "legal": "Légal et aide"
+  },
+  "links": {
+    "home": "Accueil",
+    "about": "À propos de nous",
+    "contact": "Contact",
+    "findDoctors": "Rechercher des médecins",
+    "login": "Connexion",
+    "register": "Inscription",
+    "dashboard": "Tableau de bord",
+    "settings": "Paramètres",
+    "bookAppointment": "Prendre rendez-vous",
+    "myAppointments": "Mes rendez-vous",
+    "medicalRecords": "Dossiers médicaux",
+    "terms": "Conditions d'utilisation",
+    "privacy": "Politique de confidentialité",
+    "cookie": "Politique des cookies",
+    "disclaimer": "Avertissement",
+    "help": "Aide et support"
+  }
+}

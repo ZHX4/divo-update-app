@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "title": "Dashboard",
+    "description": "Your personal healthcare dashboard on Divo"
+  },
+  "header": {
+    "welcome": "Welcome back",
+    "subtitle": "Here's an overview of your health"
+  },
+  "stats": {
+    "upcomingAppointments": "Upcoming Appointments",
+    "totalVisits": "Total Visits",
+    "recentPrescriptions": "Recent Prescriptions",
+    "healthScore": "Health Score"
+  },
+  "quickActions": {
+    "title": "Quick Actions",
+    "findDoctor": "Find Doctor",
+    "scheduleAppointment": "Schedule Appointment",
+    "viewRecords": "View Medical Records",
+    "messageDoctor": "Message Doctor"
+  },
+  "appointments": {
+    "title": "Upcoming Appointments",
+    "viewAll": "View all",
+    "noAppointments": "No upcoming appointments",
+    "schedule": "Schedule new appointment"
+  },
+  "recentActivity": {
+    "title": "Recent Activity",
+    "viewAll": "View all",
+    "noActivity": "No recent activity to show"
+  },
+  "healthMetrics": {
+    "title": "Health Metrics",
+    "bloodPressure": "Blood Pressure",
+    "heartRate": "Heart Rate",
+    "bloodGlucose": "Blood Glucose",
+    "weight": "Weight",
+    "lastUpdated": "Last updated"
+  },
+  "notifications": {
+    "title": "Notifications",
+    "viewAll": "View all",
+    "markRead": "Mark all as read",
+    "noNotifications": "No new notifications"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "header": {
+    "title": "Sitemap",
+    "subtitle": "Find all pages on our website"
+  },
+  "categories": {
+    "main": "Main Navigation",
+    "account": "Account",
+    "appointments": "Appointments",
+    "legal": "Legal & Help"
+  },
+  "links": {
+    "home": "Home",
+    "about": "About Us",
+    "contact": "Contact Us",
+    "findDoctors": "Find Doctors",
+    "login": "Login",
+    "register": "Register",
+    "dashboard": "Dashboard",
+    "settings": "Settings",
+    "bookAppointment": "Book Appointment",
+    "myAppointments": "My Appointments",
+    "medicalRecords": "Medical Records",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "cookie": "Cookie Policy",
+    "disclaimer": "Disclaimer",
+    "help": "Help & Support"
+  }
+}
